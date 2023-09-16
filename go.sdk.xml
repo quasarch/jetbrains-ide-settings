@@ -1,0 +1,22 @@
+<application>
+  <component name="GoSdkList">
+    <sdk-url>
+      <set>
+        <option value="file:///opt/homebrew/Cellar/go/1.18.1/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.18.2/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.18.3/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.18.4/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.19.3/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.19.4/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.19.5/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.19/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.20.2/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.20.3/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.20.4/libexec" />
+        <option value="file:///opt/homebrew/Cellar/go/1.21.1/libexec" />
+        <option value="file:///opt/homebrew/opt/go/libexec" />
+        <option value="file:///usr/local/go" />
+      </set>
+    </sdk-url>
+  </component>
+</application>

@@ -1,0 +1,8 @@
+<application>
+  <component name="CodeVisionSettings">
+    <option name="defaultPosition" value="Right" />
+  </component>
+  <component name="InlayHintsSettings">
+    <option name="lastViewedProviderKeyId" value="go.parameter.hints.old.go.struct.unnamed.struct.fields" />
+  </component>
+</application>

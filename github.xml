@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account name="cloud-j-luna" id="69c6212b-0824-46e1-b322-cb431ddf6c2d">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <extensionMap>
+      <mapping pattern="dockerfile.*" type="Dockerfile" />
+      <mapping ext="users-api" type="Dockerfile" />
+      <removed_mapping ext="pdf" approved="true" type="Native" />
+    </extensionMap>
+  </component>
+</application>
