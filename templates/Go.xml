@@ -1,0 +1,8 @@
+<templateSet group="Go">
+  <template name="errf" value="if $ERR$ != nil {&#10; return fmt.Errorf(&quot;$END$: %w&quot;, $ERR$)&#10;}" description="If error with formatting" toReformat="true" toShortenFQNames="true">
+    <variable name="ERR" expression="errorVariable()" defaultValue="&quot;err&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="GO" value="true" />
+    </context>
+  </template>
+</templateSet>
