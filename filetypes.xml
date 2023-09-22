@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="dockerfile.*" type="Dockerfile" />
       <mapping ext="users-api" type="Dockerfile" />
-      <mapping pattern=".prettierrc" type="JSON" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
     </extensionMap>
   </component>
