@@ -1,0 +1,34 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Delete">
+      <i c="2" l="1697728412925" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="17" l="1697728630032" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="1" l="1697728618344" />
+    </e>
+    <e n="EditorCopy">
+      <i c="2" l="1697729102909" />
+    </e>
+    <e n="EditorEnter">
+      <i c="6" l="1697728759262" />
+    </e>
+    <e n="EditorPaste">
+      <i c="4" l="1697729108533" />
+    </e>
+    <e n="EditorTab">
+      <i c="1" l="1697728527023" />
+    </e>
+    <e n="GotoDeclaration">
+      <i c="1" l="1697728509916" />
+    </e>
+    <e n="SaveAll">
+      <i c="4" l="1697729109593" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1697727982655" />
+    </e>
+  </component>
+</application>
