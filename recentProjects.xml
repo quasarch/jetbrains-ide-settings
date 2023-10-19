@@ -5,12 +5,24 @@
         <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
           <value>
             <RecentProjectMetaInfo opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1697729240749" />
+              <option name="activationTimestamp" value="1697732754736" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000594960" />
               <option name="productionCode" value="GO" />
               <option name="projectOpenTimestamp" value="1697728016356" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/Programming/quasarch/iac-modules">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2RNFy8WmU7W1zO3ugDwluKLACeG">
+              <option name="activationTimestamp" value="1697732613334" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10072.27" />
+              <option name="buildTimestamp" value="1697000594960" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1697732613609" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

@@ -1,10 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Delete">
-      <i c="2" l="1697728412925" />
+      <i c="3" l="1697732789375" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="1" l="1697732651899" />
     </e>
     <e n="EditorBackSpace">
-      <i c="17" l="1697728630032" />
+      <i c="20" l="1697732797536" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1697728618344" />
@@ -24,8 +27,11 @@
     <e n="GotoDeclaration">
       <i c="1" l="1697728509916" />
     </e>
+    <e n="OpenFile">
+      <i c="1" l="1697732593273" />
+    </e>
     <e n="SaveAll">
-      <i c="4" l="1697729109593" />
+      <i c="6" l="1697732798007" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1697727982655" />
