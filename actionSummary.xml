@@ -3,23 +3,26 @@
     <e n="$Delete">
       <i c="3" l="1697732789375" />
     </e>
+    <e n="$Undo">
+      <i c="2" l="1697808251793" />
+    </e>
     <e n="CommentByLineComment">
       <i c="2" l="1697745622307" />
     </e>
     <e n="EditorBackSpace">
-      <i c="20" l="1697732797536" />
+      <i c="24" l="1697808256015" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1697728618344" />
     </e>
     <e n="EditorCopy">
-      <i c="2" l="1697729102909" />
+      <i c="4" l="1697808259621" />
     </e>
     <e n="EditorEnter">
       <i c="6" l="1697728759262" />
     </e>
     <e n="EditorPaste">
-      <i c="4" l="1697729108533" />
+      <i c="5" l="1697808263234" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1697728527023" />
@@ -31,7 +34,7 @@
       <i c="1" l="1697732593273" />
     </e>
     <e n="SaveAll">
-      <i c="7" l="1697745623891" />
+      <i c="9" l="1697808264342" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1697727982655" />
@@ -41,6 +44,9 @@
     </e>
     <e n="com.intellij.httpClient.http.request.run.v2.HttpRequestRunSplitButtonOnGutterAction">
       <i c="2" l="1697750007463" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="2" l="1697808125395" />
     </e>
   </component>
 </application>
