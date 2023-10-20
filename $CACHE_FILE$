@@ -19714,7 +19714,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697732618782
+    "lastUpdateTime": 1697835369940
   },
   "dependencies": {
     "featureMap": {
@@ -21287,7 +21287,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1697732618848
+    "lastUpdateTime": 1697835370014
   }
 }]]></component>
   <component name="PluginFeatureService"><![CDATA[{
@@ -21585,4 +21585,13 @@
     }
   }
 }]]></component>
+  <component name="editorConfigEncodings">
+    <file url="file://$USER_HOME$/quasarplane-console/.next/react-loadable-manifest.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/trace" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/types" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/build-manifest.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/server" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/app-build-manifest.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static" charset="utf-8" />
+  </component>
 </application>
