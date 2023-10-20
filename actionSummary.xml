@@ -36,5 +36,11 @@
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1697727982655" />
     </e>
+    <e n="com.intellij.httpClient.http.request.notification.HttpClientNotificationPanelV2$EnvironmentAction">
+      <i c="1" l="1697750003015" />
+    </e>
+    <e n="com.intellij.httpClient.http.request.run.v2.HttpRequestRunSplitButtonOnGutterAction">
+      <i c="2" l="1697750007463" />
+    </e>
   </component>
 </application>
