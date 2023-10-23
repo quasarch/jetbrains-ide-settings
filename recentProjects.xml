@@ -18,31 +18,31 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/quasarplane-console">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
+              <option name="activationTimestamp" value="1698092472487" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10072.27" />
+              <option name="buildTimestamp" value="1697000594960" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1697835364757" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
           <value>
-            <RecentProjectMetaInfo frameTitle="quasarplane – users.http" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1698092238995" />
+            <RecentProjectMetaInfo frameTitle="quasarplane – ~/.kube/config" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
+              <option name="activationTimestamp" value="1698094302010" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000594960" />
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="3" />
               </option>
-              <frame x="476" y="131" width="1876" height="1077" />
+              <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
               <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1697808118546" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/quasarplane-console">
-          <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
-              <option name="activationTimestamp" value="1697836989806" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-232.10072.27" />
-              <option name="buildTimestamp" value="1697000594960" />
-              <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1697835364757" />
+              <option name="projectOpenTimestamp" value="1698092480925" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

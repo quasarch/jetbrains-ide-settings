@@ -10,7 +10,7 @@
       <i c="4" l="1697835385347" />
     </e>
     <e n="EditorBackSpace">
-      <i c="27" l="1697834690575" />
+      <i c="31" l="1698094371870" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="1" l="1697728618344" />
@@ -30,11 +30,14 @@
     <e n="GotoDeclaration">
       <i c="1" l="1697728509916" />
     </e>
+    <e n="Kubernetes.OpenKubeConfig">
+      <i c="1" l="1698092468047" />
+    </e>
     <e n="OpenFile">
       <i c="2" l="1697835307733" />
     </e>
     <e n="SaveAll">
-      <i c="14" l="1697837061450" />
+      <i c="15" l="1698094372767" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1697727982655" />
@@ -45,8 +48,17 @@
     <e n="com.intellij.httpClient.http.request.run.v2.HttpRequestRunSplitButtonOnGutterAction">
       <i c="5" l="1697837178749" />
     </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="1" l="1698092478217" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1698092484269" />
+    </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="2" l="1697808125395" />
+    </e>
+    <e n="com.intellij.ui.mac.WindowTabsComponent$5">
+      <i c="1" l="1698092472332" />
     </e>
   </component>
 </application>
