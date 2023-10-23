@@ -4,31 +4,64 @@
       <i c="3" l="1697732789375" />
     </e>
     <e n="$Undo">
-      <i c="2" l="1697808251793" />
+      <i c="4" l="1698096188574" />
     </e>
     <e n="CommentByLineComment">
       <i c="4" l="1697835385347" />
     </e>
     <e n="EditorBackSpace">
-      <i c="31" l="1698094371870" />
+      <i c="387" l="1698096290361" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="1" l="1697728618344" />
+      <i c="15" l="1698096284789" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="12" l="1698096264440" />
     </e>
     <e n="EditorCopy">
-      <i c="7" l="1697837181084" />
+      <i c="18" l="1698096293193" />
+    </e>
+    <e n="EditorCut">
+      <i c="3" l="1698096212998" />
+    </e>
+    <e n="EditorDown">
+      <i c="6" l="1698095607700" />
     </e>
     <e n="EditorEnter">
-      <i c="6" l="1697728759262" />
+      <i c="42" l="1698096273637" />
+    </e>
+    <e n="EditorLeft">
+      <i c="2" l="1698096286375" />
     </e>
     <e n="EditorPaste">
-      <i c="5" l="1697808263234" />
+      <i c="17" l="1698096294835" />
+    </e>
+    <e n="EditorRight">
+      <i c="7" l="1698096228301" />
+    </e>
+    <e n="EditorSplitLine">
+      <i c="1" l="1698095755807" />
     </e>
     <e n="EditorTab">
       <i c="1" l="1697728527023" />
     </e>
+    <e n="EditorUp">
+      <i c="2" l="1698095336313" />
+    </e>
+    <e n="Find">
+      <i c="1" l="1698096015379" />
+    </e>
+    <e n="Generate">
+      <i c="1" l="1698095754573" />
+    </e>
+    <e n="Go.NewGoFile">
+      <i c="1" l="1698096217904" />
+    </e>
     <e n="GotoDeclaration">
-      <i c="1" l="1697728509916" />
+      <i c="4" l="1698096181140" />
+    </e>
+    <e n="HTTPClient.RunAll">
+      <i c="2" l="1698094948316" />
     </e>
     <e n="Kubernetes.OpenKubeConfig">
       <i c="1" l="1698092468047" />
@@ -37,13 +70,16 @@
       <i c="2" l="1697835307733" />
     </e>
     <e n="SaveAll">
-      <i c="15" l="1698094372767" />
+      <i c="26" l="1698096295589" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="1" l="1698095751336" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1697727982655" />
     </e>
     <e n="com.intellij.httpClient.http.request.notification.HttpClientNotificationPanelV2$EnvironmentAction">
-      <i c="1" l="1697750003015" />
+      <i c="2" l="1698094947515" />
     </e>
     <e n="com.intellij.httpClient.http.request.run.v2.HttpRequestRunSplitButtonOnGutterAction">
       <i c="5" l="1697837178749" />
@@ -52,7 +88,7 @@
       <i c="1" l="1698092478217" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="1" l="1698092484269" />
+      <i c="3" l="1698096184243" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="2" l="1697808125395" />

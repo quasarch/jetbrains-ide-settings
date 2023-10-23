@@ -7,6 +7,8 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "EXPORTABILITY_SORTER.file.structure.state": "true",
+    "HTTP Client.Splitter.Proportion": "0.46605504",
+    "HTTP ClientSupport.hidePassedTests": "false",
     "LayoutCode.codeCleanup": "true",
     "LayoutCode.optimizeImports": "true",
     "RunOnceActivity.go.code.vision.default.position.was.set": "true",
@@ -31,6 +33,7 @@
     "fontSizeToResetEditor": "13.0",
     "go.first.run.time": "1697728016416",
     "got.it.tooltip.js.debugger.terminal.start.debugger.from.url": "1",
+    "got.it.tooltip.reader.mode.got.it": "1",
     "ide.memory.adjusted": "true",
     "migrated.non.roamable.values.from.general.settings": "true",
     "org.intellij.plugins.hcl.LAST_UPDATE": "1697732577420",
