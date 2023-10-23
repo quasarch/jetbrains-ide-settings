@@ -69,8 +69,14 @@
     <e n="OpenFile">
       <i c="2" l="1697835307733" />
     </e>
+    <e n="RunClass">
+      <i c="1" l="1698098868755" />
+    </e>
+    <e n="RunDashboard.Run">
+      <i c="2" l="1698098934346" />
+    </e>
     <e n="SaveAll">
-      <i c="29" l="1698098290773" />
+      <i c="30" l="1698099171642" />
     </e>
     <e n="ShowIntentionActions">
       <i c="1" l="1698095751336" />
