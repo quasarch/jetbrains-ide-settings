@@ -7,6 +7,7 @@
   "keyToString": {
     "CWM_LOGGING_VERSION": "1",
     "EXPORTABILITY_SORTER.file.structure.state": "true",
+    "FindSplitterProportion": "0.33015722",
     "HTTP Client.Splitter.Proportion": "0.46605504",
     "HTTP ClientSupport.hidePassedTests": "false",
     "LayoutCode.codeCleanup": "true",
