@@ -1,55 +1,82 @@
 <application>
   <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="7" l="1698191600247" />
+    </e>
     <e n="$Delete">
-      <i c="3" l="1697732789375" />
+      <i c="5" l="1698190565658" />
+    </e>
+    <e n="$Paste">
+      <i c="6" l="1698191600476" />
+    </e>
+    <e n="$Redo">
+      <i c="6" l="1698188334527" />
     </e>
     <e n="$Undo">
-      <i c="6" l="1698097586837" />
+      <i c="130" l="1698191765691" />
+    </e>
+    <e n="CloseContent">
+      <i c="1" l="1698188372524" />
     </e>
     <e n="CommentByLineComment">
       <i c="4" l="1697835385347" />
     </e>
+    <e n="EditorAddCaretPerSelectedLine">
+      <i c="2" l="1698191776995" />
+    </e>
     <e n="EditorBackSpace">
-      <i c="472" l="1698184225334" />
+      <i c="907" l="1698191751839" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="18" l="1698098290347" />
+      <i c="42" l="1698191579193" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="16" l="1698183985264" />
+      <i c="33" l="1698191085860" />
     </e>
     <e n="EditorCopy">
-      <i c="24" l="1698184107849" />
+      <i c="83" l="1698191756399" />
     </e>
     <e n="EditorCut">
-      <i c="4" l="1698097365873" />
+      <i c="5" l="1698190920833" />
+    </e>
+    <e n="EditorDelete">
+      <i c="5" l="1698190421208" />
     </e>
     <e n="EditorDown">
-      <i c="6" l="1698095607700" />
+      <i c="11" l="1698191451954" />
+    </e>
+    <e n="EditorDuplicate">
+      <i c="1" l="1698191759854" />
     </e>
     <e n="EditorEnter">
-      <i c="47" l="1698183961751" />
+      <i c="112" l="1698191747715" />
     </e>
     <e n="EditorLeft">
       <i c="2" l="1698096286375" />
     </e>
     <e n="EditorPaste">
-      <i c="22" l="1698098286244" />
+      <i c="89" l="1698191792323" />
     </e>
     <e n="EditorRight">
-      <i c="9" l="1698183995682" />
+      <i c="14" l="1698191562557" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1698095755807" />
     </e>
     <e n="EditorTab">
-      <i c="1" l="1697728527023" />
+      <i c="3" l="1698190771642" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1698190176744" />
     </e>
     <e n="EditorUp">
-      <i c="2" l="1698095336313" />
+      <i c="6" l="1698191453243" />
     </e>
     <e n="Find">
-      <i c="2" l="1698184158646" />
+      <i c="4" l="1698189515311" />
+    </e>
+    <e n="FindPrevious">
+      <i c="4" l="1698191775352" />
     </e>
     <e n="Generate">
       <i c="1" l="1698095754573" />
@@ -58,7 +85,7 @@
       <i c="1" l="1698096217904" />
     </e>
     <e n="GotoDeclaration">
-      <i c="10" l="1698184212532" />
+      <i c="20" l="1698191271228" />
     </e>
     <e n="HTTPClient.RunAll">
       <i c="2" l="1698094948316" />
@@ -66,8 +93,23 @@
     <e n="Kubernetes.OpenKubeConfig">
       <i c="1" l="1698092468047" />
     </e>
+    <e n="MoveMinimap">
+      <i c="1" d="1" l="1698188355877" k="1698188355877" />
+    </e>
+    <e n="MoveTabRight">
+      <i c="1" d="1" l="1698188367188" k="1698188367188" />
+    </e>
+    <e n="NewDir">
+      <i c="3" l="1698190341730" />
+    </e>
+    <e n="NextTemplateVariable">
+      <i c="2" l="1698191378822" />
+    </e>
     <e n="OpenFile">
       <i c="2" l="1697835307733" />
+    </e>
+    <e n="RenameElement">
+      <i c="3" l="1698191365704" />
     </e>
     <e n="RunClass">
       <i c="1" l="1698098868755" />
@@ -76,13 +118,25 @@
       <i c="2" l="1698098934346" />
     </e>
     <e n="SaveAll">
-      <i c="31" l="1698183999911" />
+      <i c="97" l="1698191794333" />
+    </e>
+    <e n="SearchEverywhere">
+      <i c="5" l="1698191779306" />
+    </e>
+    <e n="SelectNextOccurrence">
+      <i c="3" l="1698191790371" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="1" l="1698095751336" />
+      <i c="4" l="1698189540291" />
+    </e>
+    <e n="SplitVertically">
+      <i c="1" d="1" l="1698187651399" k="1698187651399" />
     </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1697727982655" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
+      <i c="1" l="1698188311788" />
     </e>
     <e n="com.intellij.httpClient.http.request.notification.HttpClientNotificationPanelV2$EnvironmentAction">
       <i c="2" l="1698094947515" />
@@ -94,10 +148,13 @@
       <i c="1" l="1698092478217" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="4" l="1698098020535" />
+      <i c="19" l="1698189537733" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="2" l="1698191784724" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="2" l="1697808125395" />
+      <i c="3" l="1698188374106" />
     </e>
     <e n="com.intellij.ui.mac.WindowTabsComponent$5">
       <i c="1" l="1698092472332" />
