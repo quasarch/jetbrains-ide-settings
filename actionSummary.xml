@@ -13,7 +13,7 @@
       <i c="21" l="1698276876202" />
     </e>
     <e n="$Undo">
-      <i c="292" l="1698277000902" />
+      <i c="303" l="1698278244197" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
@@ -31,43 +31,43 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1438" l="1698277513122" />
+      <i c="1551" l="1698278273158" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="56" l="1698276257280" />
+      <i c="57" l="1698277893829" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="62" l="1698277410446" />
+      <i c="72" l="1698278271602" />
     </e>
     <e n="EditorCopy">
-      <i c="135" l="1698276938610" />
+      <i c="137" l="1698277992039" />
     </e>
     <e n="EditorCut">
-      <i c="19" l="1698277507438" />
+      <i c="21" l="1698277896715" />
     </e>
     <e n="EditorDelete">
       <i c="5" l="1698190421208" />
     </e>
     <e n="EditorDown">
-      <i c="24" l="1698275524944" />
+      <i c="25" l="1698278241185" />
     </e>
     <e n="EditorDuplicate">
       <i c="1" l="1698191759854" />
     </e>
     <e n="EditorEnter">
-      <i c="186" l="1698277510846" />
+      <i c="194" l="1698278264439" />
     </e>
     <e n="EditorIndentSelection">
-      <i c="6" l="1698272630647" />
+      <i c="7" l="1698277696439" />
     </e>
     <e n="EditorLeft">
-      <i c="44" l="1698277300072" />
+      <i c="46" l="1698278167908" />
     </e>
     <e n="EditorPaste">
-      <i c="166" l="1698277510873" />
+      <i c="170" l="1698277995061" />
     </e>
     <e n="EditorRight">
-      <i c="48" l="1698277291877" />
+      <i c="52" l="1698278053310" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1698095755807" />
@@ -76,7 +76,7 @@
       <i c="1" l="1698276915524" />
     </e>
     <e n="EditorTab">
-      <i c="10" l="1698274133103" />
+      <i c="19" l="1698278076046" />
     </e>
     <e n="EditorUnindentSelection">
       <i c="5" l="1698274313097" />
@@ -97,7 +97,7 @@
       <i c="3" l="1698273350916" />
     </e>
     <e n="GotoDeclaration">
-      <i c="27" l="1698277265757" />
+      <i c="28" l="1698277559108" />
     </e>
     <e n="HTTPClient.RunAll">
       <i c="2" l="1698094948316" />
@@ -136,7 +136,7 @@
       <i c="4" l="1698274599259" />
     </e>
     <e n="SaveAll">
-      <i c="169" l="1698277522836" />
+      <i c="193" l="1698278275466" />
     </e>
     <e n="SearchEverywhere">
       <i c="7" l="1698276599409" />
@@ -177,8 +177,11 @@
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="5" l="1698272693148" />
     </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="3" l="1698278097020" />
+    </e>
     <e n="com.intellij.ui.mac.WindowTabsComponent$5">
-      <i c="2" l="1698266241625" />
+      <i c="3" l="1698277563928" />
     </e>
   </component>
 </application>
