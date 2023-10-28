@@ -93,6 +93,9 @@
     <e n="Generate">
       <i c="1" l="1698095754573" />
     </e>
+    <e n="Git.ResolveConflicts">
+      <i c="1" l="1698497572848" />
+    </e>
     <e n="Go.NewGoFile">
       <i c="3" l="1698273350916" />
     </e>
