@@ -9803,14 +9803,6 @@
           }
         ]
       },
-      "*.ltp": {
-        "dataSet": [
-          {
-            "pluginIdString": "org.textmapper.idea",
-            "nullablePluginName": "Textmapper"
-          }
-        ]
-      },
       "*.ltt": {
         "dataSet": [
           {
@@ -12328,6 +12320,10 @@
             "pluginIdString": "org.jetbrains.idea.maven",
             "nullablePluginName": "Maven Integration",
             "isBundled": true
+          },
+          {
+            "pluginIdString": "ru.rzn.gmyasoedov.gmaven",
+            "nullablePluginName": "Gmaven"
           }
         ]
       },
@@ -14322,6 +14318,14 @@
           }
         ]
       },
+      "*.selectors.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dinbtechit.ngxs",
+            "nullablePluginName": "NGXS"
+          }
+        ]
+      },
       "*.sem": {
         "dataSet": [
           {
@@ -15163,6 +15167,14 @@
           {
             "pluginIdString": "io.intino.plugin",
             "nullablePluginName": "Intino"
+          }
+        ]
+      },
+      "*.state.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dinbtechit.ngxs",
+            "nullablePluginName": "NGXS"
           }
         ]
       },
@@ -16152,14 +16164,6 @@
           }
         ]
       },
-      "*.tm": {
-        "dataSet": [
-          {
-            "pluginIdString": "org.textmapper.idea",
-            "nullablePluginName": "Textmapper"
-          }
-        ]
-      },
       "*.tmdl": {
         "dataSet": [
           {
@@ -16172,12 +16176,12 @@
         "dataSet": [
           {
             "pluginIdString": "com.intellij.tapestry",
-            "nullablePluginName": "Tapestry"
+            "nullablePluginName": "Tapestry support",
+            "isBundled": true
           },
           {
             "pluginIdString": "com.intellij.tapestry",
-            "nullablePluginName": "Tapestry support",
-            "isBundled": true
+            "nullablePluginName": "Tapestry"
           }
         ]
       },
@@ -18251,6 +18255,14 @@
           }
         ]
       },
+      "*actions.ts": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.dinbtechit.ngxs",
+            "nullablePluginName": "NGXS"
+          }
+        ]
+      },
       "*constants.txt": {
         "dataSet": [
           {
@@ -19830,7 +19842,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698182285209
+    "lastUpdateTime": 1698704139354
   },
   "dependencies": {
     "featureMap": {
@@ -21419,7 +21431,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1698182285323
+    "lastUpdateTime": 1698704140164
   }
 }]]></component>
   <component name="PluginFeatureService">{
@@ -21720,9 +21732,9 @@
   <component name="editorConfigEncodings">
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/eb4a8b3354dfc859.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/2c1811212c5b5d19.webpack.hot-update.json" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(content)" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/787df96b30e1af38.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(auth)/login/page.91b47240f20fa547.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/787df96b30e1af38.webpack.hot-update.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(content)" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/fc9451b1ab8c69f1.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.657f5586b25dbaca.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.f5fcc09f575a799c.hot-update.js" charset="utf-8" />

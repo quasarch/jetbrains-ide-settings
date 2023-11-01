@@ -28,7 +28,7 @@
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10072.27",
     "experimentalFeature.terminal.shell.command.handling": "false",
-    "file.gist.reindex.count": "17",
+    "file.gist.reindex.count": "20",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -40,9 +40,9 @@
     "js.rename.search.for.text.occurrences": "false",
     "js.rename.search.in.comments": "false",
     "migrated.non.roamable.values.from.general.settings": "true",
-    "org.intellij.plugins.hcl.LAST_UPDATE": "1698266152763",
+    "org.intellij.plugins.hcl.LAST_UPDATE": "1698704137348",
     "org.intellij.plugins.hcl.LAST_VERSION": "232.8660.88",
-    "org.jetbrains.plugins.go.LAST_UPDATE": "1698490480959",
+    "org.jetbrains.plugins.go.LAST_UPDATE": "1698840967907",
     "org.jetbrains.plugins.go.LAST_VERSION": "232.10072.27",
     "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "GO-232.10072.27",
@@ -59,5 +59,8 @@
       "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
     ]
   }
+}]]></component>
+  <component name="ShownTips"><![CDATA[{
+  "tipsOrderSeed": 1698704136406
 }]]></component>
 </application>

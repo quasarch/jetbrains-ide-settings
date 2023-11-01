@@ -5,7 +5,7 @@
         <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
           <value>
             <RecentProjectMetaInfo frameTitle="quasarplane – api.go" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1698567495541" />
+              <option name="activationTimestamp" value="1698840993695" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000594960" />
@@ -20,8 +20,8 @@
         </entry>
         <entry key="$USER_HOME$/quasarplane-console">
           <value>
-            <RecentProjectMetaInfo frameTitle="quasarplane-console – provider-map.tsx" opened="true" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
-              <option name="activationTimestamp" value="1698490014227" />
+            <RecentProjectMetaInfo frameTitle="quasarplane-console – admin/tokenomics/page.tsx" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
+              <option name="activationTimestamp" value="1698704175429" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000634528" />
@@ -36,11 +36,15 @@
         </entry>
         <entry key="$USER_HOME$/Documents/Programming/quasarch/iac">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2IW6G1sxuZHEfYHKnSQLE5Mrkv0">
-              <option name="activationTimestamp" value="1698271727850" />
+            <RecentProjectMetaInfo frameTitle="iac – ZSdRqhBAnNWH5lx2ZHuo7DhEohM/…/ingress.tf" projectWorkspaceId="2IW6G1sxuZHEfYHKnSQLE5Mrkv0">
+              <option name="activationTimestamp" value="1698704155713" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000634528" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="580" y="179" width="1400" height="1000" />
               <option name="productionCode" value="GO" />
               <option name="projectOpenTimestamp" value="1698266239980" />
             </RecentProjectMetaInfo>
