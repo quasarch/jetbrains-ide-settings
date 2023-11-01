@@ -4,16 +4,16 @@
       <i c="7" l="1698191600247" />
     </e>
     <e n="$Delete">
-      <i c="7" l="1698275638051" />
+      <i c="8" l="1698867893527" />
     </e>
     <e n="$Paste">
       <i c="7" l="1698275234987" />
     </e>
     <e n="$Redo">
-      <i c="21" l="1698276876202" />
+      <i c="23" l="1698868076815" />
     </e>
     <e n="$Undo">
-      <i c="308" l="1698490939858" />
+      <i c="322" l="1698868685151" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
@@ -31,31 +31,34 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1691" l="1698841094785" />
+      <i c="1859" l="1698868692711" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="66" l="1698840998347" />
+      <i c="70" l="1698868693872" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="80" l="1698841062938" />
+      <i c="93" l="1698868733821" />
     </e>
     <e n="EditorCopy">
-      <i c="143" l="1698496725514" />
+      <i c="155" l="1698868699263" />
     </e>
     <e n="EditorCut">
-      <i c="24" l="1698841086795" />
+      <i c="26" l="1698868632945" />
     </e>
     <e n="EditorDelete">
       <i c="5" l="1698190421208" />
     </e>
     <e n="EditorDown">
-      <i c="31" l="1698841092046" />
+      <i c="45" l="1698867889792" />
     </e>
     <e n="EditorDuplicate">
       <i c="1" l="1698191759854" />
     </e>
     <e n="EditorEnter">
-      <i c="210" l="1698841001595" />
+      <i c="242" l="1698868731205" />
+    </e>
+    <e n="EditorEscape">
+      <i c="1" l="1698867902526" />
     </e>
     <e n="EditorIndentSelection">
       <i c="8" l="1698339455337" />
@@ -67,16 +70,16 @@
       <i c="1" l="1698840997218" />
     </e>
     <e n="EditorPaste">
-      <i c="178" l="1698841089757" />
+      <i c="194" l="1698868703636" />
     </e>
     <e n="EditorRight">
-      <i c="62" l="1698841092043" />
+      <i c="69" l="1698868551170" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1698095755807" />
     </e>
     <e n="EditorStartNewLine">
-      <i c="1" l="1698276915524" />
+      <i c="3" l="1698867995896" />
     </e>
     <e n="EditorTab">
       <i c="19" l="1698278076046" />
@@ -85,7 +88,7 @@
       <i c="5" l="1698274313097" />
     </e>
     <e n="EditorUp">
-      <i c="8" l="1698339335558" />
+      <i c="9" l="1698867890322" />
     </e>
     <e n="Find">
       <i c="4" l="1698189515311" />
@@ -94,19 +97,22 @@
       <i c="4" l="1698191775352" />
     </e>
     <e n="Generate">
-      <i c="1" l="1698095754573" />
+      <i c="2" l="1698867911421" />
     </e>
     <e n="Git.ResolveConflicts">
       <i c="1" l="1698497572848" />
     </e>
     <e n="Go.NewGoFile">
-      <i c="4" l="1698840963675" />
+      <i c="5" l="1698867844803" />
     </e>
     <e n="GotoDeclaration">
       <i c="29" l="1698490723861" />
     </e>
     <e n="HTTPClient.RunAll">
       <i c="2" l="1698094948316" />
+    </e>
+    <e n="InsertLiveTemplate">
+      <i c="3" d="1" l="1698867901094" k="1698867875969" />
     </e>
     <e n="Kubernetes.OpenKubeConfig">
       <i c="1" l="1698092468047" />
@@ -142,10 +148,10 @@
       <i c="4" l="1698274599259" />
     </e>
     <e n="SaveAll">
-      <i c="209" l="1698841081285" />
+      <i c="223" l="1698868734951" />
     </e>
     <e n="SearchEverywhere">
-      <i c="7" l="1698276599409" />
+      <i c="10" l="1698868156324" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="3" l="1698191790371" />
@@ -156,11 +162,20 @@
     <e n="SplitVertically">
       <i c="1" d="1" l="1698187651399" k="1698187651399" />
     </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1698867612575" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="1" l="1698867896399" />
+    </e>
     <e n="WelcomeScreen.OpenDirectoryProject">
       <i c="1" l="1697727982655" />
     </e>
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
       <i c="1" l="1698276892018" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="3" l="1698868714742" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
       <i c="1" l="1698188311788" />
@@ -178,10 +193,13 @@
       <i c="41" l="1698277396390" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="4" l="1698273922889" />
+      <i c="5" l="1698867875940" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="5" l="1698272693148" />
+    </e>
+    <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
+      <i c="1" l="1698867917447" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="3" l="1698278097020" />
