@@ -43,7 +43,7 @@
       <i c="112" l="1698938855560" />
     </e>
     <e n="EditorCopy">
-      <i c="171" l="1698938858014" />
+      <i c="172" l="1698938865127" />
     </e>
     <e n="EditorCut">
       <i c="28" l="1698938618686" />
@@ -100,7 +100,7 @@
       <i c="4" l="1698191775352" />
     </e>
     <e n="Generate">
-      <i c="2" l="1698867911421" />
+      <i c="3" l="1698938878413" />
     </e>
     <e n="Git.ResolveConflicts">
       <i c="1" l="1698497572848" />
@@ -160,7 +160,7 @@
       <i c="6" l="1698935150523" />
     </e>
     <e n="ShowIntentionActions">
-      <i c="10" l="1698276887307" />
+      <i c="11" l="1698938891405" />
     </e>
     <e n="SplitVertically">
       <i c="1" d="1" l="1698187651399" k="1698187651399" />
@@ -202,7 +202,7 @@
       <i c="6" l="1698868746603" />
     </e>
     <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
-      <i c="1" l="1698867917447" />
+      <i c="2" l="1698938880420" />
     </e>
     <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
       <i c="3" l="1698278097020" />
