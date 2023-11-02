@@ -13,7 +13,7 @@
       <i c="34" l="1698935191263" />
     </e>
     <e n="$Undo">
-      <i c="400" l="1698937536291" />
+      <i c="411" l="1698938846731" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
@@ -24,6 +24,9 @@
     <e n="CloseContent">
       <i c="1" l="1698188372524" />
     </e>
+    <e n="CodeCompletion">
+      <i c="1" l="1698938375951" />
+    </e>
     <e n="CommentByLineComment">
       <i c="6" l="1698272918209" />
     </e>
@@ -31,31 +34,31 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="1945" l="1698937503022" />
+      <i c="2025" l="1698938849645" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="71" l="1698936759849" />
+      <i c="74" l="1698938690633" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="102" l="1698937524567" />
+      <i c="112" l="1698938855560" />
     </e>
     <e n="EditorCopy">
-      <i c="160" l="1698937529937" />
+      <i c="171" l="1698938858014" />
     </e>
     <e n="EditorCut">
-      <i c="26" l="1698868632945" />
+      <i c="28" l="1698938618686" />
     </e>
     <e n="EditorDelete">
       <i c="5" l="1698190421208" />
     </e>
     <e n="EditorDown">
-      <i c="45" l="1698867889792" />
+      <i c="49" l="1698938640780" />
     </e>
     <e n="EditorDuplicate">
       <i c="1" l="1698191759854" />
     </e>
     <e n="EditorEnter">
-      <i c="264" l="1698937533705" />
+      <i c="282" l="1698938766204" />
     </e>
     <e n="EditorEscape">
       <i c="3" l="1698936687110" />
@@ -64,13 +67,13 @@
       <i c="8" l="1698339455337" />
     </e>
     <e n="EditorLeft">
-      <i c="48" l="1698339477067" />
+      <i c="49" l="1698938687157" />
     </e>
     <e n="EditorPageUp">
       <i c="1" l="1698840997218" />
     </e>
     <e n="EditorPaste">
-      <i c="205" l="1698937540410" />
+      <i c="218" l="1698938860396" />
     </e>
     <e n="EditorRight">
       <i c="70" l="1698937523406" />
@@ -88,7 +91,7 @@
       <i c="5" l="1698274313097" />
     </e>
     <e n="EditorUp">
-      <i c="9" l="1698867890322" />
+      <i c="11" l="1698938507075" />
     </e>
     <e n="Find">
       <i c="4" l="1698189515311" />
@@ -148,7 +151,7 @@
       <i c="4" l="1698274599259" />
     </e>
     <e n="SaveAll">
-      <i c="232" l="1698937568777" />
+      <i c="243" l="1698938863284" />
     </e>
     <e n="SearchEverywhere">
       <i c="10" l="1698868156324" />
@@ -175,7 +178,7 @@
       <i c="1" l="1698276892018" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="4" l="1698868740779" />
+      <i c="5" l="1698938749600" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
       <i c="1" l="1698188311788" />
