@@ -5,7 +5,7 @@
         <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
           <value>
             <RecentProjectMetaInfo frameTitle="quasarplane – api.go" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1699440680568" />
+              <option name="activationTimestamp" value="1699442270905" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000594960" />
@@ -15,22 +15,6 @@
               <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
               <option name="productionCode" value="GO" />
               <option name="projectOpenTimestamp" value="1698157337818" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
-        <entry key="$USER_HOME$/quasarplane-console">
-          <value>
-            <RecentProjectMetaInfo frameTitle="quasarplane-console – admin/tokenomics/page.tsx" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
-              <option name="activationTimestamp" value="1698704175429" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-232.10072.27" />
-              <option name="buildTimestamp" value="1697000634528" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
-              <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1698182286486" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -66,8 +50,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/quasarplane-console">
+          <value>
+            <RecentProjectMetaInfo frameTitle="quasarplane-console – admin/tokenomics/page.tsx" opened="true" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
+              <option name="activationTimestamp" value="1699443177486" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10072.27" />
+              <option name="buildTimestamp" value="1697000602290" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1699442043240" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Programming/quasarch/quasarplane" />
+    <option name="lastOpenedProject" value="$USER_HOME$/quasarplane-console" />
   </component>
 </application>
