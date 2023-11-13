@@ -22,7 +22,7 @@
       <i c="2" l="1698272276561" />
     </e>
     <e n="CloseContent">
-      <i c="1" l="1698188372524" />
+      <i c="2" l="1699893486118" />
     </e>
     <e n="CodeCompletion">
       <i c="1" l="1698938375951" />
@@ -202,13 +202,16 @@
       <i c="4" l="1699442039692" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="41" l="1698277396390" />
+      <i c="51" l="1699893485968" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="5" l="1698867875940" />
     </e>
+    <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
+      <i c="1" l="1699894470684" />
+    </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="7" l="1698962115102" />
+      <i c="8" l="1699893488225" />
     </e>
     <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
       <i c="2" l="1698938880420" />
