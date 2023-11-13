@@ -13,7 +13,7 @@
       <i c="36" l="1699441510806" />
     </e>
     <e n="$Undo">
-      <i c="442" l="1699887594548" />
+      <i c="447" l="1699895173896" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
@@ -34,7 +34,7 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2428" l="1699887577847" />
+      <i c="2430" l="1699895167933" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="101" l="1699451489679" />
@@ -115,7 +115,10 @@
       <i c="5" l="1698867844803" />
     </e>
     <e n="GotoDeclaration">
-      <i c="32" l="1699451238009" />
+      <i c="35" l="1699895146943" />
+    </e>
+    <e n="GotoFile">
+      <i c="1" l="1699895058939" />
     </e>
     <e n="HTTPClient.RunAll">
       <i c="2" l="1698094948316" />
@@ -157,10 +160,10 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="291" l="1699451490344" />
+      <i c="293" l="1699895175153" />
     </e>
     <e n="SearchEverywhere">
-      <i c="11" l="1699864025219" />
+      <i c="13" l="1699895125096" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="6" l="1698935150523" />
@@ -205,10 +208,10 @@
       <i c="51" l="1699893485968" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="5" l="1698867875940" />
+      <i c="8" l="1699895126730" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
-      <i c="1" l="1699894470684" />
+      <i c="2" l="1699894502822" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
       <i c="8" l="1699893488225" />
