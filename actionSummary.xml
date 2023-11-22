@@ -34,7 +34,7 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2430" l="1699895167933" />
+      <i c="2433" l="1700663800185" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="101" l="1699451489679" />
@@ -76,7 +76,7 @@
       <i c="1" l="1698840997218" />
     </e>
     <e n="EditorPaste">
-      <i c="245" l="1699451461398" />
+      <i c="246" l="1700663592903" />
     </e>
     <e n="EditorRight">
       <i c="105" l="1699451348790" />
@@ -160,7 +160,7 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="293" l="1699895175153" />
+      <i c="296" l="1700663800578" />
     </e>
     <e n="SearchEverywhere">
       <i c="13" l="1699895125096" />
@@ -202,7 +202,7 @@
       <i c="15" l="1699440299024" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="4" l="1699442039692" />
+      <i c="5" l="1700662786561" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="51" l="1699893485968" />

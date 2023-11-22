@@ -1528,11 +1528,27 @@
           }
         ]
       },
+      "*-ave.fif": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.anbara.mneiconsjetbrains",
+            "nullablePluginName": "MNE Icons"
+          }
+        ]
+      },
       "*-CONF": {
         "dataSet": [
           {
             "pluginIdString": "pl.jakubchmura.snmp.mib",
             "nullablePluginName": "MIB Support"
+          }
+        ]
+      },
+      "*-epo.fif": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.anbara.mneiconsjetbrains",
+            "nullablePluginName": "MNE Icons"
           }
         ]
       },
@@ -1568,6 +1584,14 @@
           }
         ]
       },
+      "*-raw.fif": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.anbara.mneiconsjetbrains",
+            "nullablePluginName": "MNE Icons"
+          }
+        ]
+      },
       "*-SMI": {
         "dataSet": [
           {
@@ -1581,6 +1605,14 @@
           {
             "pluginIdString": "pl.jakubchmura.snmp.mib",
             "nullablePluginName": "MIB Support"
+          }
+        ]
+      },
+      "*-tfr.h5": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.github.anbara.mneiconsjetbrains",
+            "nullablePluginName": "MNE Icons"
           }
         ]
       },
@@ -2669,6 +2701,14 @@
           {
             "pluginIdString": "miniApp",
             "nullablePluginName": "MiniApp"
+          }
+        ]
+      },
+      "*.axq": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.evolveum.midpoint.studio",
+            "nullablePluginName": "MidPoint Studio"
           }
         ]
       },
@@ -5202,6 +5242,22 @@
           }
         ]
       },
+      "*.ds": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.portx.datasonnet",
+            "nullablePluginName": "DataSonnet Mapper"
+          }
+        ]
+      },
+      "*.ds.TEMPLATE": {
+        "dataSet": [
+          {
+            "pluginIdString": "io.portx.datasonnet",
+            "nullablePluginName": "DataSonnet Mapper"
+          }
+        ]
+      },
       "*.dsc": {
         "dataSet": [
           {
@@ -5244,10 +5300,6 @@
       },
       "*.dto": {
         "dataSet": [
-          {
-            "pluginIdString": "dev.huyaro.lang",
-            "nullablePluginName": "Jimmer Dto Lang"
-          },
           {
             "pluginIdString": "net.fallingangel.jimmer-dto",
             "nullablePluginName": "JimmerDTO"
@@ -5391,6 +5443,14 @@
           {
             "pluginIdString": "tech.kinori.epsilon.grammars",
             "nullablePluginName": "Epsilon Languages Editors"
+          }
+        ]
+      },
+      "*.ecp": {
+        "dataSet": [
+          {
+            "pluginIdString": "ChatGPT",
+            "nullablePluginName": "ChatGPT - EasyCode"
           }
         ]
       },
@@ -7682,6 +7742,14 @@
           }
         ]
       },
+      "*.idl": {
+        "dataSet": [
+          {
+            "pluginIdString": "me.mattco.serenityos-dsl",
+            "nullablePluginName": "SerenityOS-DSL"
+          }
+        ]
+      },
       "*.ids": {
         "dataSet": [
           {
@@ -9756,6 +9824,10 @@
           {
             "pluginIdString": "today.movatech.plugins.jsonnet",
             "nullablePluginName": "Jsonnet Pro"
+          },
+          {
+            "pluginIdString": "io.portx.datasonnet",
+            "nullablePluginName": "DataSonnet Mapper"
           }
         ]
       },
@@ -14412,6 +14484,14 @@
           }
         ]
       },
+      "*.sarif*.json": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.intellij.qodana",
+            "nullablePluginName": "Qodana"
+          }
+        ]
+      },
       "*.sass": {
         "dataSet": [
           {
@@ -14635,6 +14715,14 @@
           {
             "pluginIdString": "net.masterthought.dlanguage",
             "nullablePluginName": "D Language"
+          }
+        ]
+      },
+      "*.sduml": {
+        "dataSet": [
+          {
+            "pluginIdString": "org.sequencediagram.ideplugin",
+            "nullablePluginName": "SequenceDiagram.org"
           }
         ]
       },
@@ -15185,6 +15273,10 @@
           {
             "pluginIdString": "com.illuminatedcloud.intellij",
             "nullablePluginName": "Illuminated Cloud"
+          },
+          {
+            "pluginIdString": "com.jedide.apex",
+            "nullablePluginName": "JetForcer | The Smartest Force.com IDE"
           },
           {
             "pluginIdString": "com.illuminatedcloud2.intellij",
@@ -16160,6 +16252,14 @@
           {
             "pluginIdString": "com.bloxbean.algodea",
             "nullablePluginName": "AlgoDEA Algorand Integration"
+          }
+        ]
+      },
+      "*.templ": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.templ.templ",
+            "nullablePluginName": "Templ"
           }
         ]
       },
@@ -19949,6 +20049,14 @@
           }
         ]
       },
+      "rescript.json": {
+        "dataSet": [
+          {
+            "pluginIdString": "reasonml",
+            "nullablePluginName": "ReasonML"
+          }
+        ]
+      },
       "routes": {
         "dataSet": [
           {
@@ -20278,7 +20386,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699442048547
+    "lastUpdateTime": 1700662795189
   },
   "dependencies": {
     "featureMap": {
@@ -22051,7 +22159,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1699442048623
+    "lastUpdateTime": 1700662795279
   }
 }]]></component>
   <component name="PluginFeatureService">{
