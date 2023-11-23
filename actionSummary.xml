@@ -10,16 +10,19 @@
       <i c="8" l="1699442252783" />
     </e>
     <e n="$Redo">
-      <i c="36" l="1699441510806" />
+      <i c="37" l="1700781278899" />
     </e>
     <e n="$Undo">
-      <i c="452" l="1700767805519" />
+      <i c="500" l="1700781605279" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
     </e>
     <e n="ActivateVersionControlToolWindow">
       <i c="2" l="1698272276561" />
+    </e>
+    <e n="ChangesView.Revert">
+      <i c="1" l="1700780600726" />
     </e>
     <e n="CloseContent">
       <i c="2" l="1699893486118" />
@@ -34,34 +37,34 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2493" l="1700768089182" />
+      <i c="2763" l="1700781756209" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="102" l="1700767918702" />
+      <i c="107" l="1700781372405" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="133" l="1699451476525" />
+      <i c="168" l="1700781757251" />
     </e>
     <e n="EditorCopy">
-      <i c="208" l="1700766762906" />
+      <i c="238" l="1700781732449" />
     </e>
     <e n="EditorCut">
       <i c="29" l="1699451332080" />
     </e>
     <e n="EditorDelete">
-      <i c="5" l="1698190421208" />
+      <i c="6" l="1700780189024" />
     </e>
     <e n="EditorDown">
-      <i c="67" l="1699442730952" />
+      <i c="69" l="1700781465202" />
     </e>
     <e n="EditorDuplicate">
       <i c="2" l="1699442720822" />
     </e>
     <e n="EditorEnter">
-      <i c="354" l="1700765312163" />
+      <i c="393" l="1700781752740" />
     </e>
     <e n="EditorEscape">
-      <i c="3" l="1698936687110" />
+      <i c="4" l="1700781158212" />
     </e>
     <e n="EditorIndentSelection">
       <i c="8" l="1698339455337" />
@@ -76,10 +79,10 @@
       <i c="1" l="1698840997218" />
     </e>
     <e n="EditorPaste">
-      <i c="251" l="1700766835788" />
+      <i c="291" l="1700781742256" />
     </e>
     <e n="EditorRight">
-      <i c="108" l="1700767924261" />
+      <i c="114" l="1700781465192" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1698095755807" />
@@ -96,11 +99,14 @@
     <e n="EditorUp">
       <i c="16" l="1699442337250" />
     </e>
+    <e n="EditorUpWithSelection">
+      <i c="1" l="1700781604046" />
+    </e>
     <e n="ExpandLiveTemplateByTab">
       <i c="1" l="1699442694319" />
     </e>
     <e n="Find">
-      <i c="6" l="1700767887327" />
+      <i c="7" l="1700778082220" />
     </e>
     <e n="FindPrevious">
       <i c="4" l="1698191775352" />
@@ -115,10 +121,10 @@
       <i c="5" l="1698867844803" />
     </e>
     <e n="GotoDeclaration">
-      <i c="41" l="1700767832456" />
+      <i c="59" l="1700781640777" />
     </e>
     <e n="GotoFile">
-      <i c="1" l="1699895058939" />
+      <i c="2" l="1700780631883" />
     </e>
     <e n="HTTPClient.RunAll">
       <i c="2" l="1698094948316" />
@@ -145,13 +151,16 @@
       <i c="1" l="1698271803412" />
     </e>
     <e n="NextTemplateVariable">
-      <i c="5" l="1699442706736" />
+      <i c="8" l="1700781149219" />
     </e>
     <e n="OpenFile">
       <i c="4" l="1700766157106" />
     </e>
+    <e n="OpenInRightSplit">
+      <i c="1" l="1700779900988" />
+    </e>
     <e n="RenameElement">
-      <i c="8" l="1700767809857" />
+      <i c="9" l="1700781145573" />
     </e>
     <e n="RunClass">
       <i c="1" l="1698098868755" />
@@ -160,7 +169,7 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="314" l="1700768095995" />
+      <i c="369" l="1700781763626" />
     </e>
     <e n="SearchEverywhere">
       <i c="13" l="1699895125096" />
@@ -175,10 +184,10 @@
       <i c="1" d="1" l="1698187651399" k="1698187651399" />
     </e>
     <e n="Terminal.NewTab">
-      <i c="1" l="1699440307933" />
+      <i c="2" l="1700777190753" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="3" l="1700766837552" />
+      <i c="5" l="1700778815449" />
     </e>
     <e n="Tree-selectNext">
       <i c="1" l="1698867896399" />
@@ -193,7 +202,7 @@
       <i c="15" l="1700766840138" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="2" l="1699440447909" />
+      <i c="3" l="1700778110657" />
     </e>
     <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
       <i c="3" l="1700767909776" />
@@ -217,10 +226,10 @@
       <i c="1" l="1700767912174" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="51" l="1699893485968" />
+      <i c="53" l="1700780627249" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="8" l="1699895126730" />
+      <i c="9" l="1700780635030" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="2" l="1699894502822" />
