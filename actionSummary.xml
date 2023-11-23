@@ -37,16 +37,16 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2763" l="1700781756209" />
+      <i c="2773" l="1700782474791" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="107" l="1700781372405" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="168" l="1700781757251" />
+      <i c="174" l="1700782460599" />
     </e>
     <e n="EditorCopy">
-      <i c="238" l="1700781732449" />
+      <i c="241" l="1700782466040" />
     </e>
     <e n="EditorCut">
       <i c="29" l="1699451332080" />
@@ -61,7 +61,7 @@
       <i c="2" l="1699442720822" />
     </e>
     <e n="EditorEnter">
-      <i c="393" l="1700781752740" />
+      <i c="395" l="1700782453784" />
     </e>
     <e n="EditorEscape">
       <i c="4" l="1700781158212" />
@@ -79,10 +79,10 @@
       <i c="1" l="1698840997218" />
     </e>
     <e n="EditorPaste">
-      <i c="291" l="1700781742256" />
+      <i c="294" l="1700782468671" />
     </e>
     <e n="EditorRight">
-      <i c="114" l="1700781465192" />
+      <i c="115" l="1700782474249" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1698095755807" />
@@ -169,7 +169,7 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="369" l="1700781763626" />
+      <i c="374" l="1700782475059" />
     </e>
     <e n="SearchEverywhere">
       <i c="13" l="1699895125096" />
@@ -235,7 +235,7 @@
       <i c="2" l="1699894502822" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="12" l="1700767749182" />
+      <i c="13" l="1700781802447" />
     </e>
     <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
       <i c="2" l="1698938880420" />
