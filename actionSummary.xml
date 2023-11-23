@@ -13,7 +13,7 @@
       <i c="36" l="1699441510806" />
     </e>
     <e n="$Undo">
-      <i c="447" l="1699895173896" />
+      <i c="452" l="1700767805519" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
@@ -34,10 +34,10 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2476" l="1700767058236" />
+      <i c="2493" l="1700768089182" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="101" l="1699451489679" />
+      <i c="102" l="1700767918702" />
     </e>
     <e n="EditorChooseLookupItemReplace">
       <i c="133" l="1699451476525" />
@@ -79,7 +79,7 @@
       <i c="251" l="1700766835788" />
     </e>
     <e n="EditorRight">
-      <i c="107" l="1700766410746" />
+      <i c="108" l="1700767924261" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1698095755807" />
@@ -100,7 +100,7 @@
       <i c="1" l="1699442694319" />
     </e>
     <e n="Find">
-      <i c="5" l="1699440442679" />
+      <i c="6" l="1700767887327" />
     </e>
     <e n="FindPrevious">
       <i c="4" l="1698191775352" />
@@ -115,7 +115,7 @@
       <i c="5" l="1698867844803" />
     </e>
     <e n="GotoDeclaration">
-      <i c="39" l="1700766680119" />
+      <i c="41" l="1700767832456" />
     </e>
     <e n="GotoFile">
       <i c="1" l="1699895058939" />
@@ -151,7 +151,7 @@
       <i c="4" l="1700766157106" />
     </e>
     <e n="RenameElement">
-      <i c="7" l="1699442702267" />
+      <i c="8" l="1700767809857" />
     </e>
     <e n="RunClass">
       <i c="1" l="1698098868755" />
@@ -160,7 +160,7 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="305" l="1700767059008" />
+      <i c="314" l="1700768095995" />
     </e>
     <e n="SearchEverywhere">
       <i c="13" l="1699895125096" />
@@ -195,6 +195,15 @@
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
       <i c="2" l="1699440447909" />
     </e>
+    <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
+      <i c="3" l="1700767909776" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
+      <i c="31" l="1700767903838" />
+    </e>
+    <e n="com.intellij.find.editorHeaderActions.SelectAllAction">
+      <i c="1" l="1700767913913" />
+    </e>
     <e n="com.intellij.httpClient.http.request.notification.HttpClientNotificationPanelV2$EnvironmentAction">
       <i c="4" l="1699440292541" />
     </e>
@@ -203,6 +212,9 @@
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="6" l="1700764579663" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
+      <i c="1" l="1700767912174" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
       <i c="51" l="1699893485968" />
@@ -214,7 +226,7 @@
       <i c="2" l="1699894502822" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="11" l="1700766860802" />
+      <i c="12" l="1700767749182" />
     </e>
     <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
       <i c="2" l="1698938880420" />
