@@ -20386,7 +20386,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1700662795189
+    "lastUpdateTime": 1700764588986
   },
   "dependencies": {
     "featureMap": {
@@ -22159,7 +22159,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1700662795279
+    "lastUpdateTime": 1700764589068
   }
 }]]></component>
   <component name="PluginFeatureService">{
@@ -22774,6 +22774,7 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.c4456fb7d385c0d4.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.78e391a1ac46d838.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.a0e8585b1f3f0a5b.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/cache/webpack/client-development/37.pack.gz" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/ffcbe041888fa3aa.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/chunks/app/(content)/admin/tokenomics/[name]" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/1fb24d975437e1a7.webpack.hot-update.json" charset="utf-8" />

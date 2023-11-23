@@ -40,9 +40,9 @@
     "js.rename.search.for.text.occurrences": "false",
     "js.rename.search.in.comments": "false",
     "migrated.non.roamable.values.from.general.settings": "true",
-    "org.intellij.plugins.hcl.LAST_UPDATE": "1700662789315",
+    "org.intellij.plugins.hcl.LAST_UPDATE": "1700764583659",
     "org.intellij.plugins.hcl.LAST_VERSION": "232.8660.88",
-    "org.jetbrains.plugins.go.LAST_UPDATE": "1700515825039",
+    "org.jetbrains.plugins.go.LAST_UPDATE": "1700764255230",
     "org.jetbrains.plugins.go.LAST_VERSION": "232.10072.27",
     "previousColorScheme": "_@user_Dark",
     "registry.to.advanced.settings.migration.build": "GO-232.10072.27",
@@ -62,10 +62,13 @@
 }]]></component>
   <component name="ShownTips"><![CDATA[{
   "shownTips": {
-    "SpeedSearch": 1700662795145
+    "SpeedSearch": 1700662795145,
+    "ShowUsages": 1700764589204,
+    "CommentLine": 1700764588927
   },
   "proposedTips": {
-    "SpeedSearch": 1700662795056
+    "SpeedSearch": 1700662795056,
+    "CommentLine": 1700764588859
   },
   "tipsOrderSeed": 1698704136406
 }]]></component>
