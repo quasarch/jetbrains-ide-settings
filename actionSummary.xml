@@ -34,7 +34,7 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2471" l="1700765314205" />
+      <i c="2476" l="1700767058236" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="101" l="1699451489679" />
@@ -43,7 +43,7 @@
       <i c="133" l="1699451476525" />
     </e>
     <e n="EditorCopy">
-      <i c="205" l="1700765400309" />
+      <i c="208" l="1700766762906" />
     </e>
     <e n="EditorCut">
       <i c="29" l="1699451332080" />
@@ -76,10 +76,10 @@
       <i c="1" l="1698840997218" />
     </e>
     <e n="EditorPaste">
-      <i c="249" l="1700765369520" />
+      <i c="251" l="1700766835788" />
     </e>
     <e n="EditorRight">
-      <i c="105" l="1699451348790" />
+      <i c="107" l="1700766410746" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1698095755807" />
@@ -115,7 +115,7 @@
       <i c="5" l="1698867844803" />
     </e>
     <e n="GotoDeclaration">
-      <i c="35" l="1699895146943" />
+      <i c="39" l="1700766680119" />
     </e>
     <e n="GotoFile">
       <i c="1" l="1699895058939" />
@@ -148,7 +148,7 @@
       <i c="5" l="1699442706736" />
     </e>
     <e n="OpenFile">
-      <i c="3" l="1698266162701" />
+      <i c="4" l="1700766157106" />
     </e>
     <e n="RenameElement">
       <i c="7" l="1699442702267" />
@@ -160,7 +160,7 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="300" l="1700765370062" />
+      <i c="305" l="1700767059008" />
     </e>
     <e n="SearchEverywhere">
       <i c="13" l="1699895125096" />
@@ -178,7 +178,7 @@
       <i c="1" l="1699440307933" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="2" l="1698867612575" />
+      <i c="3" l="1700766837552" />
     </e>
     <e n="Tree-selectNext">
       <i c="1" l="1698867896399" />
@@ -190,7 +190,7 @@
       <i c="2" l="1699442898104" />
     </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
-      <i c="8" l="1698943811807" />
+      <i c="15" l="1700766840138" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
       <i c="2" l="1699440447909" />
@@ -214,7 +214,7 @@
       <i c="2" l="1699894502822" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="8" l="1699893488225" />
+      <i c="11" l="1700766860802" />
     </e>
     <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
       <i c="2" l="1698938880420" />
@@ -226,7 +226,10 @@
       <i c="1" l="1699442787464" />
     </e>
     <e n="com.intellij.ui.mac.WindowTabsComponent$5">
-      <i c="4" l="1700673048690" />
+      <i c="5" l="1700766152426" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="1" l="1700766838315" />
     </e>
   </component>
 </application>

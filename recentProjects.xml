@@ -5,7 +5,7 @@
         <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
           <value>
             <RecentProjectMetaInfo frameTitle="quasarplane – api.go" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1700766110143" />
+              <option name="activationTimestamp" value="1700767024001" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000594960" />
@@ -37,7 +37,7 @@
         <entry key="$USER_HOME$/quasarplane-console">
           <value>
             <RecentProjectMetaInfo frameTitle="quasarplane-console – admin/tokenomics/page.tsx" opened="true" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
-              <option name="activationTimestamp" value="1700766112003" />
+              <option name="activationTimestamp" value="1700766187983" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000602290" />
@@ -52,7 +52,7 @@
         </entry>
         <entry key="$USER_HOME$/Documents/Programming/quasarch/iac-modules">
           <value>
-            <RecentProjectMetaInfo frameTitle="iac-modules – ingress.tf" opened="true" projectWorkspaceId="2RNFy8WmU7W1zO3ugDwluKLACeG">
+            <RecentProjectMetaInfo frameTitle="iac-modules – ingress.tf" projectWorkspaceId="2RNFy8WmU7W1zO3ugDwluKLACeG">
               <option name="activationTimestamp" value="1700764630787" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
@@ -60,14 +60,26 @@
               <option name="colorInfo">
                 <RecentProjectColorInfo associatedIndex="2" />
               </option>
-              <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
+              <frame x="0" y="0" width="2560" height="1440" extendedState="6" fullScreen="true" />
               <option name="productionCode" value="GO" />
               <option name="projectOpenTimestamp" value="1700764583803" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/Programming/quasarch/akash-go">
+          <value>
+            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2LQHllyD8vi2j27P02MvrvWgYff">
+              <option name="activationTimestamp" value="1700767017190" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10072.27" />
+              <option name="buildTimestamp" value="1697000602290" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1700766189967" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/quasarplane-console" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Programming/quasarch/quasarplane" />
   </component>
 </application>
