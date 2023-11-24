@@ -1,4 +1,9 @@
 <application>
+  <component name="ExtensionsRootType">
+    <pluginVersions>
+      <plugin id="com.intellij.database" version="GO-232.10072.27" />
+    </pluginVersions>
+  </component>
   <component name="JSRemoteModulesRegistry">
     <modules />
   </component>

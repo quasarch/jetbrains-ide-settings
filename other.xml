@@ -10,6 +10,7 @@
     "FindSplitterProportion": "0.33015722",
     "HTTP Client.Splitter.Proportion": "0.46605504",
     "HTTP ClientSupport.hidePassedTests": "false",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "GO-232.10072.27",
     "LayoutCode.codeCleanup": "true",
     "LayoutCode.optimizeImports": "true",
     "RunOnceActivity.go.code.vision.default.position.was.set": "true",
