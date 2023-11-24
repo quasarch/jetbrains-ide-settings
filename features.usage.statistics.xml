@@ -31,7 +31,7 @@
     <feature id="navigation.inheritance.hierarchy" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.duplicate" count="2" last-shown="0" last-used="1699442720838" shown-count="0" />
     <feature id="editing.copy.reference" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.find" count="7" last-shown="0" last-used="1700778082285" shown-count="0" />
+    <feature id="navigation.find" count="8" last-shown="0" last-used="1700849722665" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.basic" count="107" last-shown="0" last-used="1700781372420" shown-count="0" />
     <feature id="editing.completion.postfix" count="2" last-shown="0" last-used="1698274221640" shown-count="0" />
@@ -95,7 +95,7 @@
     <feature id="refactoring.introduceVariable.incompleteStatement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.readonly.datasource" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.compare.file.versions" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="navigation.find.replace.toggle" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.find.replace.toggle" count="1" last-shown="0" last-used="1700849729261" shown-count="0" />
     <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.console" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />

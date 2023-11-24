@@ -13,7 +13,7 @@
       <i c="37" l="1700781278899" />
     </e>
     <e n="$Undo">
-      <i c="500" l="1700781605279" />
+      <i c="501" l="1700849538227" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
@@ -37,7 +37,7 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="2773" l="1700782474791" />
+      <i c="2778" l="1700849735238" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="107" l="1700781372405" />
@@ -46,7 +46,7 @@
       <i c="174" l="1700782460599" />
     </e>
     <e n="EditorCopy">
-      <i c="241" l="1700782466040" />
+      <i c="243" l="1700850076443" />
     </e>
     <e n="EditorCut">
       <i c="29" l="1699451332080" />
@@ -106,7 +106,7 @@
       <i c="1" l="1699442694319" />
     </e>
     <e n="Find">
-      <i c="7" l="1700778082220" />
+      <i c="8" l="1700849722646" />
     </e>
     <e n="FindPrevious">
       <i c="4" l="1698191775352" />
@@ -169,7 +169,7 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="375" l="1700829437601" />
+      <i c="378" l="1700849738156" />
     </e>
     <e n="SearchEverywhere">
       <i c="13" l="1699895125096" />
@@ -184,7 +184,7 @@
       <i c="1" d="1" l="1698187651399" k="1698187651399" />
     </e>
     <e n="Terminal.NewTab">
-      <i c="2" l="1700777190753" />
+      <i c="3" l="1700849751539" />
     </e>
     <e n="ToggleLineBreakpoint">
       <i c="5" l="1700778815449" />
@@ -202,13 +202,19 @@
       <i c="15" l="1700766840138" />
     </e>
     <e n="com.intellij.find.SearchReplaceComponent$CloseAction">
-      <i c="3" l="1700778110657" />
+      <i c="4" l="1700849740706" />
+    </e>
+    <e n="com.intellij.find.SearchReplaceComponent$ModeAction">
+      <i c="1" l="1700849729239" />
     </e>
     <e n="com.intellij.find.SearchTextArea$ShowHistoryAction">
       <i c="3" l="1700767909776" />
     </e>
+    <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
+      <i c="3" l="1700849725807" />
+    </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
-      <i c="31" l="1700767903838" />
+      <i c="34" l="1700849727094" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.SelectAllAction">
       <i c="1" l="1700767913913" />
@@ -217,7 +223,7 @@
       <i c="4" l="1699440292541" />
     </e>
     <e n="com.intellij.httpClient.http.request.run.v2.HttpRequestRunSplitButtonOnGutterAction">
-      <i c="19" l="1700765361949" />
+      <i c="27" l="1700849896165" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
       <i c="6" l="1700764579663" />
