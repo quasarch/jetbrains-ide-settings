@@ -5,7 +5,7 @@
         <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
           <value>
             <RecentProjectMetaInfo frameTitle="quasarplane – api.go" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1700903239525" />
+              <option name="activationTimestamp" value="1700924644806" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000594960" />
@@ -37,7 +37,7 @@
         <entry key="$USER_HOME$/quasarplane-console">
           <value>
             <RecentProjectMetaInfo frameTitle="quasarplane-console – admin/tokenomics/page.tsx" opened="true" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
-              <option name="activationTimestamp" value="1700903535962" />
+              <option name="activationTimestamp" value="1700903673577" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000602290" />
@@ -80,6 +80,6 @@
         </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/quasarplane-console" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Programming/quasarch/quasarplane" />
   </component>
 </application>
