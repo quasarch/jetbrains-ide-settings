@@ -13,7 +13,7 @@
       <i c="50" l="1701014083763" />
     </e>
     <e n="$Undo">
-      <i c="768" l="1701036341001" />
+      <i c="771" l="1701037441388" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
@@ -43,16 +43,16 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4228" l="1701036454237" />
+      <i c="4252" l="1701037421088" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="153" l="1701036385665" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="265" l="1701036443858" />
+      <i c="266" l="1701037349581" />
     </e>
     <e n="EditorCopy">
-      <i c="376" l="1701036410983" />
+      <i c="377" l="1701037397597" />
     </e>
     <e n="EditorCut">
       <i c="45" l="1701026320087" />
@@ -85,7 +85,7 @@
       <i c="1" l="1698840997218" />
     </e>
     <e n="EditorPaste">
-      <i c="444" l="1701036413386" />
+      <i c="445" l="1701037407683" />
     </e>
     <e n="EditorRight">
       <i c="153" l="1701036438061" />
@@ -178,10 +178,10 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="558" l="1701036454482" />
+      <i c="562" l="1701037442486" />
     </e>
     <e n="SearchEverywhere">
-      <i c="14" l="1701036034611" />
+      <i c="15" l="1701037365337" />
     </e>
     <e n="SelectNextOccurrence">
       <i c="20" l="1701026293297" />
@@ -253,7 +253,7 @@
       <i c="60" l="1700930075584" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
-      <i c="10" l="1701036035529" />
+      <i c="11" l="1701037371950" />
     </e>
     <e n="com.intellij.openapi.project.LightEditActionFactory$SimpleLightEditCompatibleAction">
       <i c="2" l="1699894502822" />

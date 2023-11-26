@@ -30,7 +30,7 @@
     "experimental.ui.on.first.startup": "true",
     "experimental.ui.used.version": "232.10072.27",
     "experimentalFeature.terminal.shell.command.handling": "false",
-    "file.gist.reindex.count": "33",
+    "file.gist.reindex.count": "36",
     "fileTypeChangedCounter": "1",
     "fontSizeToResetConsole": "13.0",
     "fontSizeToResetEditor": "13.0",
@@ -62,17 +62,17 @@
     ]
   }
 }]]></component>
-  <component name="ShownTips"><![CDATA[{
-  "shownTips": {
-    "SpeedSearch": 1700662795145,
-    "ShowUsages": 1701026496067,
-    "CommentLine": 1700764588927
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;SpeedSearch&quot;: 1700662795145,
+    &quot;ShowUsages&quot;: 1701026496067,
+    &quot;CommentLine&quot;: 1700764588927
   },
-  "proposedTips": {
-    "SpeedSearch": 1700662795056,
-    "ShowUsages": 1701026495424,
-    "CommentLine": 1700764588859
+  &quot;proposedTips&quot;: {
+    &quot;SpeedSearch&quot;: 1700662795056,
+    &quot;ShowUsages&quot;: 1701026495424,
+    &quot;CommentLine&quot;: 1700764588859
   },
-  "tipsOrderSeed": 1698704136406
-}]]></component>
+  &quot;tipsOrderSeed&quot;: 1698704136406
+}</component>
 </application>
