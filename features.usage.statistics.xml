@@ -1,12 +1,12 @@
 <application>
   <component name="FeatureUsageStatistics" first-run="1697725787592" have-been-shown="false" show-in-other="true" show-in-compilation="true">
-    <feature id="editing.completion.camelHumps" count="5" last-shown="0" last-used="1700903299437" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="6" last-shown="0" last-used="1700996500834" shown-count="0" />
     <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.goto.file.line" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="switcher" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.replace" count="186" last-shown="1700778008535" last-used="1700992642115" shown-count="191" />
+    <feature id="editing.completion.replace" count="188" last-shown="1700778008535" last-used="1700996681118" shown-count="191" />
     <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="vcs.show.quick.list" count="1" last-shown="0" last-used="1700903256274" shown-count="0" />
     <feature id="editing.convert.line.separators" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -33,7 +33,7 @@
     <feature id="editing.copy.reference" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="9" last-shown="0" last-used="1700992493466" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="110" last-shown="0" last-used="1700933948261" shown-count="0" />
+    <feature id="editing.completion.basic" count="111" last-shown="0" last-used="1700996500858" shown-count="0" />
     <feature id="editing.completion.postfix" count="2" last-shown="0" last-used="1698274221640" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -109,8 +109,8 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="2105" />
-      <option name="invocations" value="264" />
+      <option name="sparedCharacters" value="2118" />
+      <option name="invocations" value="266" />
       <option name="startDate" value="1697670000000" />
       <option name="dayCount" value="12" />
       <option name="lastDate" value="1700956800000" />
