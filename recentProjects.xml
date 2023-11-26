@@ -5,7 +5,7 @@
         <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
           <value>
             <RecentProjectMetaInfo frameTitle="quasarplane – api.go" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1701015815212" />
+              <option name="activationTimestamp" value="1701026022812" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000594960" />
@@ -68,11 +68,15 @@
         </entry>
         <entry key="$USER_HOME$/Documents/Programming/quasarch/akash-go">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="2LQHllyD8vi2j27P02MvrvWgYff">
+            <RecentProjectMetaInfo frameTitle="akash-go – get-deployment/main.go" projectWorkspaceId="2LQHllyD8vi2j27P02MvrvWgYff">
               <option name="activationTimestamp" value="1700929724925" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000602290" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="0" y="385" width="1920" height="948" extendedState="6" fullScreen="true" />
               <option name="productionCode" value="GO" />
               <option name="projectOpenTimestamp" value="1700766189967" />
             </RecentProjectMetaInfo>
