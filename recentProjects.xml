@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
-          <value>
-            <RecentProjectMetaInfo frameTitle="quasarplane – routine.go" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1701026022812" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-232.10072.27" />
-              <option name="buildTimestamp" value="1697000594960" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
-              <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1698157337818" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Documents/Programming/quasarch/iac">
           <value>
             <RecentProjectMetaInfo frameTitle="iac – ZSdRqhBAnNWH5lx2ZHuo7DhEohM/…/ingress.tf" projectWorkspaceId="2IW6G1sxuZHEfYHKnSQLE5Mrkv0">
@@ -82,8 +66,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
+          <value>
+            <RecentProjectMetaInfo frameTitle="quasarplane – routine.go" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
+              <option name="activationTimestamp" value="1701026484827" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10072.27" />
+              <option name="buildTimestamp" value="1697000595936" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1701026490162" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/quasarplane-console" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Programming/quasarch/quasarplane" />
   </component>
 </application>
