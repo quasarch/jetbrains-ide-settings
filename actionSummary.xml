@@ -25,7 +25,7 @@
       <i c="3" l="1701025005801" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="1" l="1700780600726" />
+      <i c="2" l="1701979701611" />
     </e>
     <e n="CloseContent">
       <i c="2" l="1699893486118" />
@@ -262,7 +262,7 @@
       <i c="2" l="1699894502822" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="17" l="1701026941785" />
+      <i c="18" l="1701979695101" />
     </e>
     <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
       <i c="2" l="1698938880420" />
