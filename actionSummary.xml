@@ -49,10 +49,10 @@
       <i c="156" l="1701109956975" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="270" l="1701111153519" />
+      <i c="272" l="1701967170555" />
     </e>
     <e n="EditorCopy">
-      <i c="379" l="1701111245717" />
+      <i c="380" l="1701967173715" />
     </e>
     <e n="EditorCut">
       <i c="46" l="1701111185509" />
@@ -67,7 +67,7 @@
       <i c="2" l="1699442720822" />
     </e>
     <e n="EditorEnter">
-      <i c="614" l="1701111246821" />
+      <i c="616" l="1701967169147" />
     </e>
     <e n="EditorEscape">
       <i c="5" l="1701036178440" />
@@ -85,7 +85,7 @@
       <i c="1" l="1698840997218" />
     </e>
     <e n="EditorPaste">
-      <i c="448" l="1701111246969" />
+      <i c="449" l="1701967174399" />
     </e>
     <e n="EditorRight">
       <i c="162" l="1701109896363" />
@@ -130,7 +130,7 @@
       <i c="6" l="1700995392959" />
     </e>
     <e n="GotoDeclaration">
-      <i c="90" l="1701111173600" />
+      <i c="95" l="1701967164065" />
     </e>
     <e n="GotoFile">
       <i c="2" l="1700780631883" />
@@ -178,7 +178,7 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="570" l="1701111248928" />
+      <i c="573" l="1701967176209" />
     </e>
     <e n="SearchEverywhere">
       <i c="15" l="1701037365337" />
@@ -196,7 +196,7 @@
       <i c="3" l="1700849751539" />
     </e>
     <e n="ToggleLineBreakpoint">
-      <i c="6" l="1701036105109" />
+      <i c="7" l="1701966953992" />
     </e>
     <e n="Tree-selectNext">
       <i c="1" l="1698867896399" />
@@ -250,7 +250,7 @@
       <i c="2" l="1701012864663" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="61" l="1701110051847" />
+      <i c="62" l="1701967132337" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="11" l="1701037371950" />
@@ -277,7 +277,7 @@
       <i c="1" l="1700929327601" />
     </e>
     <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
-      <i c="2" l="1701036106479" />
+      <i c="3" l="1701966955261" />
     </e>
   </component>
 </application>
