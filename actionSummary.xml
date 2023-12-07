@@ -1,13 +1,13 @@
 <application>
   <component name="ActionsLocalSummary">
     <e n="$Copy">
-      <i c="10" l="1701013387165" />
+      <i c="11" l="1701978795577" />
     </e>
     <e n="$Delete">
       <i c="8" l="1698867893527" />
     </e>
     <e n="$Paste">
-      <i c="10" l="1701013389799" />
+      <i c="11" l="1701978795985" />
     </e>
     <e n="$Redo">
       <i c="50" l="1701014083763" />
@@ -43,7 +43,7 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4316" l="1701974797167" />
+      <i c="4327" l="1701978815908" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="156" l="1701109956975" />
@@ -52,7 +52,7 @@
       <i c="278" l="1701974799108" />
     </e>
     <e n="EditorCopy">
-      <i c="384" l="1701974739774" />
+      <i c="385" l="1701979493005" />
     </e>
     <e n="EditorCut">
       <i c="46" l="1701111185509" />
@@ -130,7 +130,7 @@
       <i c="6" l="1700995392959" />
     </e>
     <e n="GotoDeclaration">
-      <i c="100" l="1701974488952" />
+      <i c="101" l="1701979417737" />
     </e>
     <e n="GotoFile">
       <i c="2" l="1700780631883" />
@@ -213,6 +213,9 @@
     <e n="com.intellij.codeInsight.daemon.impl.DaemonTooltipWithActionRenderer$addActionsRow$2">
       <i c="2" l="1699442898104" />
     </e>
+    <e n="com.intellij.database.actions.ddl.CreateObjectGroup$Public$2">
+      <i c="1" l="1701978787890" />
+    </e>
     <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
       <i c="17" l="1701026620554" />
     </e>
@@ -241,7 +244,7 @@
       <i c="37" l="1700903274595" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="6" l="1700764579663" />
+      <i c="7" l="1701978405680" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="1" l="1700767912174" />
@@ -250,7 +253,7 @@
       <i c="2" l="1701012864663" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="62" l="1701967132337" />
+      <i c="63" l="1701979420404" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="11" l="1701037371950" />
