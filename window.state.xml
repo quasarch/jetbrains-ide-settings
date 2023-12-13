@@ -6,7 +6,7 @@
     <size key="GridCell.Tab.0.bottom.0.0.5120.2880@192dpi" width="1366" height="618" />
   </component>
   <component name="WindowManager">
-    <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
+    <frame x="0" y="25" width="2560" height="1308" fullScreen="true" />
   </component>
   <component name="WindowStateApplicationService">
     <state width="1146" height="187" key="ShowUsagesActions.dimensionServiceKey" timestamp="1701974496565">
@@ -14,9 +14,9 @@
     </state>
     <state width="1146" height="111" key="ShowUsagesActions.dimensionServiceKey/0.0.2560.1440" timestamp="1701036116416" />
     <state width="1146" height="187" key="ShowUsagesActions.dimensionServiceKey/0.25.2560.1308" timestamp="1701974496565" />
-    <state x="1280" y="592" width="800" height="789" key="WELCOME_SCREEN" timestamp="1701037275155">
+    <state x="1280" y="639" width="800" height="957" key="WELCOME_SCREEN" timestamp="1702472529146">
       <screen x="0" y="25" width="2560" height="1308" />
     </state>
-    <state x="1280" y="592" width="800" height="789" key="WELCOME_SCREEN/0.25.2560.1308" timestamp="1701037275155" />
+    <state x="1280" y="639" width="800" height="957" key="WELCOME_SCREEN/0.25.2560.1308" timestamp="1702472529146" />
   </component>
 </application>

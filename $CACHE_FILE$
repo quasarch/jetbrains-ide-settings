@@ -1210,6 +1210,14 @@
           }
         ]
       },
+      ".courseignore": {
+        "dataSet": [
+          {
+            "pluginIdString": "com.jetbrains.edu",
+            "nullablePluginName": "JetBrains Academy"
+          }
+        ]
+      },
       ".editorconfig": {
         "dataSet": [
           {
@@ -20395,7 +20403,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701978415047
+    "lastUpdateTime": 1702472514048
   },
   "dependencies": {
     "featureMap": {
@@ -22168,7 +22176,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1701978415113
+    "lastUpdateTime": 1702472514079
   }
 }]]></component>
   <component name="PluginFeatureService">{
@@ -22476,15 +22484,15 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.657f5586b25dbaca.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.f5fcc09f575a799c.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.978e87b42af13503.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/e0d59d6d0bfbd924.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/727341a33d98eb43.webpack.hot-update.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/e0d59d6d0bfbd924.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.32c52e42d9e934de.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.9229eae0b12839da.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/cache/webpack/client-development/34.pack.gz_" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.fa764a7843c224b2.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/744d17f697cbae27.webpack.hot-update.json" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.4f1cbd41647c335a.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/7c296e59d3dc1f19.webpack.hot-update.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.4f1cbd41647c335a.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/73fc24d0f48dccfb.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.c0dc34ed4b5d5868.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.787df96b30e1af38.hot-update.js" charset="utf-8" />
@@ -22497,8 +22505,8 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.c1dfcca67b8225df.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/61673ef19bbce7d7.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/cdc65511109719dc.webpack.hot-update.json" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.c361e1d69d400557.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.2690d662f0141b85.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.c361e1d69d400557.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.0a8e98eb14e780e8.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/b7596d8e43d55528.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.000df419fb32fb21.hot-update.js" charset="utf-8" />
@@ -22532,11 +22540,11 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(auth)/login/page.7776a2472128460b.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.2f455d1dddf2feed.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/5a7c4331a69e7340.webpack.hot-update.json" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.c1e6a46244a43306.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.58bcbb75529529fe.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.a1ea14488b3a297b.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.d830b2674360b9ed.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.c1e6a46244a43306.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/643949bc54d34d29.webpack.hot-update.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.d830b2674360b9ed.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.a1ea14488b3a297b.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/3421e86e7998ddbf.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.5ca34246b9d0cf55.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/chunks/_error.js" charset="utf-8" />
@@ -22580,9 +22588,9 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/b0e0097693d2893f.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.b2ddd84863450750.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/5d35f35b978e762a.webpack.hot-update.json" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.d5124dcfe23972f1.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.cc163990d35bfb52.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/src/components/Forms/FundingForm.tsx" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.cc163990d35bfb52.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.d5124dcfe23972f1.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.d73e699702706081.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/154fe9747ea23bc2.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.126102cc4fe9e1ef.hot-update.js" charset="utf-8" />
@@ -22592,8 +22600,8 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.6b61663118e07020.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.d64baca86258c67f.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.a2832f6b3ed6a22b.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.fe0b391e8fadb39e.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.97a712d9bcfa0053.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.fe0b391e8fadb39e.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.9e377548468fcdfd.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.88cb8fa4a5774ac4.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(content)/layout.5a48e5a08a0cf9da.hot-update.js" charset="utf-8" />
@@ -22602,8 +22610,8 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.bda08d6d582ec61b.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/fe965dc9f6bacd95.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/b723df09b07cc484.webpack.hot-update.json" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.f615cd7ef3a3241a.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.61673ef19bbce7d7.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.f615cd7ef3a3241a.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/cache/webpack/client-development/0.pack.gz_" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/da7f9a67c3c6fa16.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/9e377548468fcdfd.webpack.hot-update.json" charset="utf-8" />
@@ -22613,16 +22621,16 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/cache/webpack/server-development/40.pack.gz" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.000df419fb32fb21.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.876c3baf0cc2f7c4.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/20c35d60279bb2b1.webpack.hot-update.json" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.c0dc34ed4b5d5868.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.8e402a9c398e0ff5.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.c0dc34ed4b5d5868.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/20c35d60279bb2b1.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.e07103e5a2cf20ed.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/e7c487fda0ff2e93.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/755e513074c9a342.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.5ca34246b9d0cf55.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.c54c789c9b60b8fd.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/a388cf1eb73117a2.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/cache/webpack/client-development/10.pack.gz_" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/a388cf1eb73117a2.webpack.hot-update.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.c54c789c9b60b8fd.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/types/app/(content)" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.a388cf1eb73117a2.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/src/app/(content)/billing/result" charset="utf-8" />
@@ -22645,11 +22653,11 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/c63a6d9d12257973.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(auth)/login/page.ee9cb37365758339.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.643949bc54d34d29.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.08f9d7108bfe8dfe.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.5d2d2e2795a488a6.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.08f9d7108bfe8dfe.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.idea/kubernetes-settings.xml" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(auth)/login/page.c1cb5a64fc0908f1.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/3dcfc0bda2e7ce22.webpack.hot-update.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(auth)/login/page.c1cb5a64fc0908f1.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.d64baca86258c67f.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.b7596d8e43d55528.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/b2ddd84863450750.webpack.hot-update.json" charset="utf-8" />
@@ -22663,13 +22671,13 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.2923a7bfab995d08.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(auth)/login/page.022ba6da572c2e0c.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/7da90538ba3d291b.webpack.hot-update.json" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.8732b148759c0b27.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/a96e665be4621461.webpack.hot-update.json" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.8732b148759c0b27.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.97a712d9bcfa0053.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/f6c3c414a752606e.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.77d9a165b1bffcff.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.10f2b578c6ccc240.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.351756f11d81b86d.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.10f2b578c6ccc240.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/build-manifest.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/83b48f2f2ba0209a.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/1cb9b203427d73d5.webpack.hot-update.json" charset="utf-8" />
@@ -22686,19 +22694,19 @@
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.d668f8d25a3ed669.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(content)/dashboard/page.0b33d6a24b5974ec.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.380870dc25751307.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(auth)/login/page.c149dae76378e972.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.b0786b8980923a26.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.f1b442f3d4eabd50.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/cache/webpack/client-development/31.pack.gz_" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.b0786b8980923a26.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/(auth)/login/page.c149dae76378e972.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/cache/webpack/server-development/5.pack.gz_" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/cache/webpack/client-development/31.pack.gz_" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.351756f11d81b86d.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.6e74afe7c0ae764c.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/cache/webpack/client-development/13.pack.gz_" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/main.0f076bb1a969bc27.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.156637e1aaaab13a.hot-update.js" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/app/layout.f6c3c414a752606e.hot-update.js" charset="utf-8" />
-    <file url="file://$USER_HOME$/quasarplane-console/.next/static/media" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/webpack.747e65792719359f.hot-update.js" charset="utf-8" />
+    <file url="file://$USER_HOME$/quasarplane-console/.next/static/media" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/08f9d7108bfe8dfe.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/fe0b391e8fadb39e.webpack.hot-update.json" charset="utf-8" />
     <file url="file://$USER_HOME$/quasarplane-console/.next/static/webpack/c1cb5a64fc0908f1.webpack.hot-update.json" charset="utf-8" />
