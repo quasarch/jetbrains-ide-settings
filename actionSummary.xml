@@ -13,7 +13,7 @@
       <i c="50" l="1701014083763" />
     </e>
     <e n="$Undo">
-      <i c="776" l="1701974691897" />
+      <i c="787" l="1702475840344" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
@@ -43,7 +43,7 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4340" l="1702474307352" />
+      <i c="4361" l="1702476161020" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="156" l="1701109956975" />
@@ -61,13 +61,13 @@
       <i c="7" l="1701974389457" />
     </e>
     <e n="EditorDown">
-      <i c="121" l="1701109956723" />
+      <i c="123" l="1702475660938" />
     </e>
     <e n="EditorDuplicate">
       <i c="3" l="1701974715839" />
     </e>
     <e n="EditorEnter">
-      <i c="628" l="1702474304186" />
+      <i c="631" l="1702476120929" />
     </e>
     <e n="EditorEscape">
       <i c="5" l="1701036178440" />
@@ -76,7 +76,7 @@
       <i c="9" l="1700903622373" />
     </e>
     <e n="EditorLeft">
-      <i c="130" l="1701110869274" />
+      <i c="132" l="1702476105170" />
     </e>
     <e n="EditorLineEnd">
       <i c="1" l="1698942491245" />
@@ -130,7 +130,7 @@
       <i c="6" l="1700995392959" />
     </e>
     <e n="GotoDeclaration">
-      <i c="101" l="1701979417737" />
+      <i c="108" l="1702476175958" />
     </e>
     <e n="GotoFile">
       <i c="2" l="1700780631883" />
@@ -178,7 +178,7 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="589" l="1702474308948" />
+      <i c="595" l="1702476161410" />
     </e>
     <e n="SearchEverywhere">
       <i c="15" l="1701037365337" />
@@ -238,7 +238,7 @@
       <i c="1" l="1700767913913" />
     </e>
     <e n="com.intellij.httpClient.http.request.notification.HttpClientNotificationPanelV2$EnvironmentAction">
-      <i c="4" l="1699440292541" />
+      <i c="5" l="1702476204062" />
     </e>
     <e n="com.intellij.httpClient.http.request.run.v2.HttpRequestRunSplitButtonOnGutterAction">
       <i c="37" l="1700903274595" />
