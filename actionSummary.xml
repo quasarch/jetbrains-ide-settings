@@ -130,7 +130,7 @@
       <i c="6" l="1700995392959" />
     </e>
     <e n="GotoDeclaration">
-      <i c="112" l="1703092294149" />
+      <i c="114" l="1703092787940" />
     </e>
     <e n="GotoFile">
       <i c="2" l="1700780631883" />
@@ -143,6 +143,9 @@
     </e>
     <e n="Kubernetes.OpenKubeConfig">
       <i c="1" l="1698092468047" />
+    </e>
+    <e n="Markdown.Layout.PreviewOnly">
+      <i c="1" l="1703092903607" />
     </e>
     <e n="MoveMinimap">
       <i c="1" d="1" l="1698188355877" k="1698188355877" />
@@ -253,7 +256,7 @@
       <i c="2" l="1701012864663" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="64" l="1703092284614" />
+      <i c="65" l="1703092795878" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="11" l="1701037371950" />

@@ -14,6 +14,7 @@
     "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "GO-232.10072.27",
     "LayoutCode.codeCleanup": "true",
     "LayoutCode.optimizeImports": "true",
+    "Markdown Split EditorLayout": "Preview only",
     "RunOnceActivity.go.code.vision.default.position.was.set": "true",
     "RunOnceActivity.go.convert.old.color.schemes": "true",
     "RunOnceActivity.go.enabled.exportability.sorter": "true",
