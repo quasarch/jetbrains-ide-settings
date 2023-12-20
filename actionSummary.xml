@@ -25,7 +25,7 @@
       <i c="3" l="1701025005801" />
     </e>
     <e n="ChangesView.Revert">
-      <i c="2" l="1701979701611" />
+      <i c="5" l="1703091750332" />
     </e>
     <e n="CloseContent">
       <i c="2" l="1699893486118" />
@@ -130,7 +130,7 @@
       <i c="6" l="1700995392959" />
     </e>
     <e n="GotoDeclaration">
-      <i c="108" l="1702476175958" />
+      <i c="112" l="1703092294149" />
     </e>
     <e n="GotoFile">
       <i c="2" l="1700780631883" />
@@ -253,7 +253,7 @@
       <i c="2" l="1701012864663" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="63" l="1701979420404" />
+      <i c="64" l="1703092284614" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="11" l="1701037371950" />
@@ -262,7 +262,7 @@
       <i c="2" l="1699894502822" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="19" l="1702472908830" />
+      <i c="21" l="1703091761578" />
     </e>
     <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
       <i c="2" l="1698938880420" />
