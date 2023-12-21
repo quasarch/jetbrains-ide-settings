@@ -50,26 +50,10 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
-        <entry key="$USER_HOME$/quasarplane-console">
-          <value>
-            <RecentProjectMetaInfo frameTitle="quasarplane-console – container-service/[id]/page.tsx" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
-              <option name="activationTimestamp" value="1702472522799" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-232.10072.27" />
-              <option name="buildTimestamp" value="1697000623879" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="3" />
-              </option>
-              <frame x="0" y="25" width="2560" height="1308" fullScreen="true" />
-              <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1702472524307" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
           <value>
             <RecentProjectMetaInfo frameTitle="quasarplane – providers/seed.sql" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1703180845112" />
+              <option name="activationTimestamp" value="1703184423075" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000623879" />
@@ -79,6 +63,22 @@
               <frame x="0" y="0" width="2560" height="1440" fullScreen="true" />
               <option name="productionCode" value="GO" />
               <option name="projectOpenTimestamp" value="1702472531235" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/quasarplane-console">
+          <value>
+            <RecentProjectMetaInfo frameTitle="quasarplane-console – container-service/[id]/page.tsx" opened="true" projectWorkspaceId="2PxrEohcpOcadgxh2VKOJE2d58s">
+              <option name="activationTimestamp" value="1703181489207" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10072.27" />
+              <option name="buildTimestamp" value="1697000623879" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="25" width="2560" height="1308" fullScreen="true" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1703181484046" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

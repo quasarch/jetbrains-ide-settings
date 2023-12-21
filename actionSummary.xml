@@ -10,13 +10,13 @@
       <i c="12" l="1703172358806" />
     </e>
     <e n="$Redo">
-      <i c="54" l="1703174527507" />
+      <i c="56" l="1703181766548" />
     </e>
     <e n="$SelectAll">
       <i c="1" l="1703172370955" />
     </e>
     <e n="$Undo">
-      <i c="871" l="1703176715518" />
+      <i c="885" l="1703183531840" />
     </e>
     <e n="ActivateServicesToolWindow">
       <i c="1" l="1698272275641" />
@@ -49,31 +49,31 @@
       <i c="2" l="1698191776995" />
     </e>
     <e n="EditorBackSpace">
-      <i c="4730" l="1703180510243" />
+      <i c="4879" l="1703184331942" />
     </e>
     <e n="EditorChooseLookupItem">
-      <i c="173" l="1703175511536" />
+      <i c="183" l="1703184319223" />
     </e>
     <e n="EditorChooseLookupItemReplace">
-      <i c="306" l="1703176563586" />
+      <i c="322" l="1703183308353" />
     </e>
     <e n="EditorCopy">
-      <i c="452" l="1703177607035" />
+      <i c="470" l="1703184447158" />
     </e>
     <e n="EditorCut">
-      <i c="63" l="1703176730410" />
+      <i c="64" l="1703182529820" />
     </e>
     <e n="EditorDelete">
       <i c="7" l="1701974389457" />
     </e>
     <e n="EditorDown">
-      <i c="133" l="1703175507466" />
+      <i c="153" l="1703184317116" />
     </e>
     <e n="EditorDuplicate">
       <i c="3" l="1701974715839" />
     </e>
     <e n="EditorEnter">
-      <i c="701" l="1703177510833" />
+      <i c="732" l="1703183529662" />
     </e>
     <e n="EditorEscape">
       <i c="5" l="1701036178440" />
@@ -91,10 +91,10 @@
       <i c="1" l="1698840997218" />
     </e>
     <e n="EditorPaste">
-      <i c="534" l="1703177608995" />
+      <i c="548" l="1703184457942" />
     </e>
     <e n="EditorRight">
-      <i c="174" l="1703177524529" />
+      <i c="175" l="1703184306413" />
     </e>
     <e n="EditorSplitLine">
       <i c="1" l="1698095755807" />
@@ -103,13 +103,13 @@
       <i c="3" l="1698867995896" />
     </e>
     <e n="EditorTab">
-      <i c="39" l="1703175324850" />
+      <i c="43" l="1703182531214" />
     </e>
     <e n="EditorUnindentSelection">
       <i c="6" l="1699451370645" />
     </e>
     <e n="EditorUp">
-      <i c="30" l="1703174366087" />
+      <i c="32" l="1703184301426" />
     </e>
     <e n="EditorUpWithSelection">
       <i c="1" l="1700781604046" />
@@ -121,7 +121,7 @@
       <i c="8" l="1703180493839" />
     </e>
     <e n="Find">
-      <i c="10" l="1701014666063" />
+      <i c="11" l="1703182249777" />
     </e>
     <e n="FindPrevious">
       <i c="4" l="1698191775352" />
@@ -136,7 +136,7 @@
       <i c="6" l="1700995392959" />
     </e>
     <e n="GotoDeclaration">
-      <i c="130" l="1703177610898" />
+      <i c="147" l="1703184448597" />
     </e>
     <e n="GotoFile">
       <i c="5" l="1703172335099" />
@@ -187,7 +187,7 @@
       <i c="15" l="1699887809669" />
     </e>
     <e n="SaveAll">
-      <i c="664" l="1703180522584" />
+      <i c="706" l="1703184458458" />
     </e>
     <e n="SearchEverywhere">
       <i c="18" l="1703176031195" />
@@ -238,7 +238,7 @@
       <i c="3" l="1700767909776" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.NextOccurrenceAction">
-      <i c="3" l="1700849725807" />
+      <i c="21" l="1703182277974" />
     </e>
     <e n="com.intellij.find.editorHeaderActions.PrevOccurrenceAction">
       <i c="40" l="1701014721236" />
@@ -253,7 +253,7 @@
       <i c="39" l="1702477988019" />
     </e>
     <e n="com.intellij.ide.ReopenProjectAction">
-      <i c="7" l="1701978405680" />
+      <i c="8" l="1703181481221" />
     </e>
     <e n="com.intellij.openapi.actionSystem.DefaultActionGroup">
       <i c="1" l="1700767912174" />
@@ -262,7 +262,7 @@
       <i c="2" l="1701012864663" />
     </e>
     <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
-      <i c="81" l="1703178343603" />
+      <i c="83" l="1703182736124" />
     </e>
     <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
       <i c="15" l="1703175550962" />
@@ -271,7 +271,7 @@
       <i c="2" l="1699894502822" />
     </e>
     <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
-      <i c="23" l="1703172506537" />
+      <i c="24" l="1703181418481" />
     </e>
     <e n="com.intellij.testIntegration.GenerateFromTestCreatorsGroup$1Action">
       <i c="2" l="1698938880420" />

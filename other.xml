@@ -69,12 +69,14 @@
   "shownTips": {
     "SpeedSearch": 1701978415155,
     "ShowUsages": 1702472514405,
-    "CommentLine": 1700764588927
+    "CommentLine": 1700764588927,
+    "FindInPath": 1703181489089
   },
   "proposedTips": {
     "SpeedSearch": 1701978414951,
     "ShowUsages": 1702472514009,
-    "CommentLine": 1700764588859
+    "CommentLine": 1700764588859,
+    "FindInPath": 1703181489056
   },
   "tipsOrderSeed": 1698704136406
 }]]></component>

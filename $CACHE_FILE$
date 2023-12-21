@@ -3028,7 +3028,7 @@
       "*.boc": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -6211,7 +6211,7 @@
       "*.fc": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -6304,7 +6304,7 @@
       "*.fif": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -6652,7 +6652,7 @@
       "*.func": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -6710,12 +6710,12 @@
         "dataSet": [
           {
             "pluginIdString": "org.jetbrains.plugins.javaFX",
-            "nullablePluginName": "JavaFX",
-            "isBundled": true
+            "nullablePluginName": "JavaFX"
           },
           {
             "pluginIdString": "org.jetbrains.plugins.javaFX",
-            "nullablePluginName": "JavaFX"
+            "nullablePluginName": "JavaFX",
+            "isBundled": true
           }
         ]
       },
@@ -11719,7 +11719,7 @@
         "dataSet": [
           {
             "pluginIdString": "com.lasagnerd.odin",
-            "nullablePluginName": "Odin Lang Support"
+            "nullablePluginName": "Odin Support"
           }
         ]
       },
@@ -14281,10 +14281,6 @@
           },
           {
             "pluginIdString": "org.jetbrains.android",
-            "nullablePluginName": "Android"
-          },
-          {
-            "pluginIdString": "org.jetbrains.android",
             "nullablePluginName": "Android Support",
             "isBundled": true
           },
@@ -16116,7 +16112,7 @@
       "*.tact": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -16660,7 +16656,7 @@
       "*.tlb": {
         "dataSet": [
           {
-            "pluginIdString": "com.github.andreypfau.intellij-ton",
+            "pluginIdString": "org.ton.intellij-ton",
             "nullablePluginName": "TON"
           }
         ]
@@ -17253,6 +17249,14 @@
           {
             "pluginIdString": "io.jetclient",
             "nullablePluginName": "JetClient - The Ultimate REST Client"
+          }
+        ]
+      },
+      "*.txtpb": {
+        "dataSet": [
+          {
+            "pluginIdString": "idea.plugin.protoeditor",
+            "nullablePluginName": "Protocol Buffers"
           }
         ]
       },
@@ -20403,7 +20407,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1702472514048
+    "lastUpdateTime": 1703181489146
   },
   "dependencies": {
     "featureMap": {
@@ -22176,7 +22180,7 @@
         ]
       }
     },
-    "lastUpdateTime": 1702472514079
+    "lastUpdateTime": 1703181489181
   }
 }]]></component>
   <component name="PluginFeatureService">{
