@@ -33,7 +33,7 @@
     <feature id="editing.copy.reference" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.find" count="12" last-shown="0" last-used="1703196781334" shown-count="0" />
     <feature id="codeassists.quickdefinition" count="0" last-shown="0" last-used="0" shown-count="0" />
-    <feature id="editing.completion.basic" count="184" last-shown="0" last-used="1703196865963" shown-count="0" />
+    <feature id="editing.completion.basic" count="185" last-shown="0" last-used="1703261710681" shown-count="0" />
     <feature id="editing.completion.postfix" count="4" last-shown="0" last-used="1703174934257" shown-count="0" />
     <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="navigation.recent.locations" count="0" last-shown="0" last-used="0" shown-count="0" />
@@ -109,11 +109,11 @@
     <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
     <feature id="db.assign.color" count="0" last-shown="0" last-used="0" shown-count="0" />
     <completionStatsTag>
-      <option name="sparedCharacters" value="4098" />
-      <option name="invocations" value="455" />
+      <option name="sparedCharacters" value="4106" />
+      <option name="invocations" value="457" />
       <option name="startDate" value="1697670000000" />
-      <option name="dayCount" value="15" />
-      <option name="lastDate" value="1703116800000" />
+      <option name="dayCount" value="16" />
+      <option name="lastDate" value="1703203200000" />
     </completionStatsTag>
     <fixesStatsTag>
       <option name="invocations" value="35" />

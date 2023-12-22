@@ -2,22 +2,6 @@
   <component name="RecentProjectsManager">
     <option name="additionalInfo">
       <map>
-        <entry key="$USER_HOME$/Documents/Programming/quasarch/iac">
-          <value>
-            <RecentProjectMetaInfo frameTitle="iac – ZSdRqhBAnNWH5lx2ZHuo7DhEohM/…/ingress.tf" projectWorkspaceId="2IW6G1sxuZHEfYHKnSQLE5Mrkv0">
-              <option name="activationTimestamp" value="1698704155713" />
-              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="build" value="GO-232.10072.27" />
-              <option name="buildTimestamp" value="1697000634528" />
-              <option name="colorInfo">
-                <RecentProjectColorInfo associatedIndex="8" />
-              </option>
-              <frame x="580" y="179" width="1400" height="1000" />
-              <option name="productionCode" value="GO" />
-              <option name="projectOpenTimestamp" value="1698266239980" />
-            </RecentProjectMetaInfo>
-          </value>
-        </entry>
         <entry key="$USER_HOME$/Documents/Programming/quasarch/iac-modules">
           <value>
             <RecentProjectMetaInfo frameTitle="iac-modules – ingress.tf" projectWorkspaceId="2RNFy8WmU7W1zO3ugDwluKLACeG">
@@ -53,7 +37,7 @@
         <entry key="$USER_HOME$/Documents/Programming/quasarch/quasarplane">
           <value>
             <RecentProjectMetaInfo frameTitle="quasarplane – providers/seed.sql" opened="true" projectWorkspaceId="2P12URgufAeMdlxtdphmrIPIcCe">
-              <option name="activationTimestamp" value="1703254934007" />
+              <option name="activationTimestamp" value="1703261616099" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="GO-232.10072.27" />
               <option name="buildTimestamp" value="1697000623879" />
@@ -82,8 +66,24 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="$USER_HOME$/Documents/Programming/quasarch/iac">
+          <value>
+            <RecentProjectMetaInfo frameTitle="iac – ZSdRqhBAnNWH5lx2ZHuo7DhEohM/…/ingress.tf" opened="true" projectWorkspaceId="2IW6G1sxuZHEfYHKnSQLE5Mrkv0">
+              <option name="activationTimestamp" value="1703263136107" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="GO-232.10072.27" />
+              <option name="buildTimestamp" value="1697000623879" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="580" y="179" width="1400" height="1000" />
+              <option name="productionCode" value="GO" />
+              <option name="projectOpenTimestamp" value="1703261618818" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
       </map>
     </option>
-    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Programming/quasarch/quasarplane" />
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/Programming/quasarch/iac" />
   </component>
 </application>
